@@ -7,3 +7,9 @@
  +**Thoughts:** 
  +
  
+ myLog
+ Day 1: December 23, 2017
+ 
+ Today's Progress: 
+ 
+ Thoughts:
