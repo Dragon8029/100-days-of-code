@@ -17,3 +17,9 @@ Day 3: December 25, 2017
 Today's Progress: Continued working on Basic Algorithm Scripting. 
 
 Thoughts: It's tougher than I thought. But I will get through it. 
+
+Day 4: December 26, 2017
+
+Today's Progress: Took a break from freeCodeCamp, worked on a CSS3 course. 
+
+Thoughts: Nice to take a break and change things up. 
