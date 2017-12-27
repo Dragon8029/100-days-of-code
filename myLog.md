@@ -23,3 +23,9 @@ Day 4: December 26, 2017
 Today's Progress: Took a break from freeCodeCamp, worked on a CSS3 course. 
 
 Thoughts: Nice to take a break and change things up. 
+
+Day 5: December 27, 2017
+
+Today's Progress: Continued on with CSS3 course. Played with styling buttons and some typography tricks. 
+
+Thoughts: Need more practice. 
