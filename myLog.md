@@ -29,3 +29,9 @@ Day 5: December 27, 2017
 Today's Progress: Continued on with CSS3 course. Played with styling buttons and some typography tricks. 
 
 Thoughts: Need more practice. 
+
+Day 6: December 28, 2017
+
+Today's Progress: Completed day 3 on CSS3 course. Completed another algorithm challenge on freeCodeCamp. 
+
+Thoughts: I need to read/research more on javaScript, having troubles understanding parts of it. 
