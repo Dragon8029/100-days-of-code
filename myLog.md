@@ -35,3 +35,9 @@ Day 6: December 28, 2017
 Today's Progress: Completed day 3 on CSS3 course. Completed another algorithm challenge on freeCodeCamp. 
 
 Thoughts: I need to read/research more on javaScript, having troubles understanding parts of it. 
+
+Day 7: December 29, 2017
+
+Today's Progress: Completed day 4 on 30 day CSS3 course. Completed the return largest number challenge on freeCodeCamp.
+
+Thoughts: I think writing the code and description in a journal is helping with the learning curve. 
