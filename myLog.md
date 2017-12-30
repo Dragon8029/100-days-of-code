@@ -41,3 +41,9 @@ Day 7: December 29, 2017
 Today's Progress: Completed day 4 on 30 day CSS3 course. Completed the return largest number challenge on freeCodeCamp.
 
 Thoughts: I think writing the code and description in a journal is helping with the learning curve. 
+
+Day 8: December 30, 2017
+
+Today's Progress: Completed day 5 on 30 day CSS3 course. Completed the Confirm the Ending algorithm challenge on freeCodeCamp. 
+
+Thoughts: I need to work on understanding the technical writeups for functions. 
