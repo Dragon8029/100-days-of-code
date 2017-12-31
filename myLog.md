@@ -47,3 +47,9 @@ Day 8: December 30, 2017
 Today's Progress: Completed day 5 on 30 day CSS3 course. Completed the Confirm the Ending algorithm challenge on freeCodeCamp. 
 
 Thoughts: I need to work on understanding the technical writeups for functions. 
+
+Day 9: December 31, 2017
+
+Today's Progress: Completed day 6 on 30 day CSS3 course. Completed the "Repeat a string repeat a string" challenge on freeCodeCamp. Did not use any hints for this challenge. Searched on google, found the String.prototype.repeat() method. 
+
+Thoughts: Feeling really good about today. Managed to find the answer i needed 100% without any hints. 
