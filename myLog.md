@@ -53,3 +53,9 @@ Day 9: December 31, 2017
 Today's Progress: Completed day 6 on 30 day CSS3 course. Completed the "Repeat a string repeat a string" challenge on freeCodeCamp. Did not use any hints for this challenge. Searched on google, found the String.prototype.repeat() method. 
 
 Thoughts: Feeling really good about today. Managed to find the answer i needed 100% without any hints. 
+
+Day 10: January 1, 2018
+
+Today's Progress: Completed day 6 on 30 day CSS3 course. Completed the "Truncate a string" challenge on freeCodeCamp. 
+
+Thoughts: Hints were needed today, confidence took a hit, but still looking up.
