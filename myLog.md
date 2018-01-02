@@ -59,3 +59,9 @@ Day 10: January 1, 2018
 Today's Progress: Completed day 6 on 30 day CSS3 course. Completed the "Truncate a string" challenge on freeCodeCamp. 
 
 Thoughts: Hints were needed today, confidence took a hit, but still looking up.
+
+Day 11: January 2, 2018
+
+Today’s Progress: Completed day 7 on 30 day CSS3 course. Completed “Chunky Monkey” challenge on freeCodeCamp.
+
+Thoughts: My routine will need to change to make time to code. 
