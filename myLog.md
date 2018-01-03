@@ -65,3 +65,9 @@ Day 11: January 2, 2018
 Today’s Progress: Completed day 7 on 30 day CSS3 course. Completed “Chunky Monkey” challenge on freeCodeCamp.
 
 Thoughts: My routine will need to change to make time to code. 
+
+Day 12: January 3, 2018
+
+Today's Progress: Completed Day 9 on 30 day CSS3 course, messed up the day's I was on earlier. Started the JavaScript track at SoloLearn. Need to take a break from freeCodeCamp and learn more JavaScript. 
+
+Thoughts: Just keep coding....
