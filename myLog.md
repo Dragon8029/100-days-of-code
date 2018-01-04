@@ -71,3 +71,9 @@ Day 12: January 3, 2018
 Today's Progress: Completed Day 9 on 30 day CSS3 course, messed up the day's I was on earlier. Started the JavaScript track at SoloLearn. Need to take a break from freeCodeCamp and learn more JavaScript. 
 
 Thoughts: Just keep coding....
+
+Day 13: January 4, 2018
+
+Today's Progress: Completed Day 10 on 30 day CSS3 course. Worked on the SoloLearn JavaScript course. 
+
+Thoughts: Eventually I will get this. 
