@@ -83,3 +83,9 @@ Day 14: January 5, 2018
 Today's Progress: Completed Day 11 on 30 day CSS3 course. Finished up the SoloLearn JavaScript Tutorial. 
 
 Thoughts: Practice, Practice, Practice...
+
+Day 15: January 6, 2018
+
+Today's Progress: Completed Day 12 on 30 day CSS3 course. Worked on HTML course at SoloLearn. 
+
+Thoughts: The more I study, the more I find time to code instead of wasting time. 
