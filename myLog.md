@@ -89,3 +89,9 @@ Day 15: January 6, 2018
 Today's Progress: Completed Day 12 on 30 day CSS3 course. Worked on HTML course at SoloLearn. 
 
 Thoughts: The more I study, the more I find time to code instead of wasting time. 
+
+Day 16: January 7, 2018
+
+Today's Progress: Completed day 13 on 30 day CSS3 course. Completed the HTML Fundamentals at SoloLearn. 
+
+Thoughts: Down the rabbit hole i go....
