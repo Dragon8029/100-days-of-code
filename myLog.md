@@ -99,3 +99,5 @@ Thoughts: Down the rabbit hole i go....
 Day 17: January 8, 2018
 
 Today's Progress: Completed day 14 on 30 day CSS3 course. Started reading "What is code?" by Paul Ford, as a pre-mission for the Code Newbie Challenge 2018. 
+
+Thoughts: Work gets in the way of the fun stuff. 
