@@ -95,3 +95,7 @@ Day 16: January 7, 2018
 Today's Progress: Completed day 13 on 30 day CSS3 course. Completed the HTML Fundamentals at SoloLearn. 
 
 Thoughts: Down the rabbit hole i go....
+
+Day 17: January 8, 2018
+
+Today's Progress: Completed day 14 on 30 day CSS3 course. Started reading "What is code?" by Paul Ford, as a pre-mission for the Code Newbie Challenge 2018. 
