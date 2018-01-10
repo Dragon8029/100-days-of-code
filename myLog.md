@@ -107,3 +107,9 @@ Day 18: January 9, 2018
 Today's Progress: Completed day 15 on 30 day CSS3 course. Finished reading "What is code?" by Paul Ford for the pre-mission for the #CNC2018 Code Newbie Challenge 2018. 
 
 Thoughts: 38,000 words is a lengthy read.....
+
+Day 19: January 10, 2018
+
+Today's Progress: Completed day 16 on 30 day CSS3 Course. Started #JavaScript30 challenge, and built a drum kit. 
+
+Thoughts: I might be crazy to accept all these challenges, but it is pushing me to keep going. 
