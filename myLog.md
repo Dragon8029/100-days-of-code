@@ -113,3 +113,9 @@ Day 19: January 10, 2018
 Today's Progress: Completed day 16 on 30 day CSS3 Course. Started #JavaScript30 challenge, and built a drum kit. 
 
 Thoughts: I might be crazy to accept all these challenges, but it is pushing me to keep going. 
+
+Day 20: January 11, 2018
+
+Today's Progress: Completed day 17 on 30 day CSS3 Course. Built a clock with the #JavaScript30 challenge. Continued reading "You don't know JavaScript".
+
+Thoughts: There is time to code in every day...
