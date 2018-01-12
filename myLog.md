@@ -119,3 +119,9 @@ Day 20: January 11, 2018
 Today's Progress: Completed day 17 on 30 day CSS3 Course. Built a clock with the #JavaScript30 challenge. Continued reading "You don't know JavaScript".
 
 Thoughts: There is time to code in every day...
+
+Day 21: January 12, 2018 
+
+Today's Progress: Completed day 18 on 30 day CSS3 Course. Finished day 3 with the #JavaScript30 challenge. Continued reading "You Don't Know JavaScript".
+
+Thoughts: Lots to learn...need to find a way to remember more...
