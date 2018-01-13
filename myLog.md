@@ -128,6 +128,6 @@ Thoughts: Lots to learn...need to find a way to remember more...
 
 Day 22: January 13, 2018
 
-Today's Progress: Completed day 19 on 30 day CSS3 course. Finished up lesson 3 and 4 of #JavaScript30 challenge. 
+Today's Progress: Completed day 19 on 30 day CSS3 course. Finished up lesson 4 and 5 of #JavaScript30 challenge. 
 
 Thoughts: Practice, practice, practice....
