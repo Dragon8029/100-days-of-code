@@ -131,3 +131,9 @@ Day 22: January 13, 2018
 Today's Progress: Completed day 19 on 30 day CSS3 course. Finished up lesson 4 and 5 of #JavaScript30 challenge. 
 
 Thoughts: Practice, practice, practice....
+
+Day 23: January 14, 2018
+
+Today's Progress: Completed day 20 on 30 day CSS3 course. Finished up lesson 6 of #JavaScript30 challenge. Completed first contribution to open source GitHub project. 
+
+Thoughts: It's been a productive morning. Keep it up...
