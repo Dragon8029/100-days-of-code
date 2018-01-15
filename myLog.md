@@ -137,3 +137,9 @@ Day 23: January 14, 2018
 Today's Progress: Completed day 20 on 30 day CSS3 course. Finished up lesson 6 of #JavaScript30 challenge. Completed first contribution to open source GitHub project. 
 
 Thoughts: It's been a productive morning. Keep it up...
+
+Day 24: January 15, 2018
+
+Today's Progress: Completed day 21 on 30 day CSS3 course. Finished up array workout 2 on #JavaScript30 challenge. Reading and studying what I can in my spare time. 
+
+Thoughts: Just keep coding, just keep coding...
