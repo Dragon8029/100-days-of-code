@@ -146,4 +146,6 @@ Thoughts: Just keep coding, just keep coding...
 
 Day 25: January 16, 2018
 
-Today's Progress: Completed day 22 on 30 day CSS3 course. 
+Today's Progress: Completed day 22 on 30 day CSS3 course. Worked on Practical Javascript course. 
+
+Thoughts: watchandcode.com is a valuable resource.
