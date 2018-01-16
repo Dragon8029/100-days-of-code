@@ -143,3 +143,7 @@ Day 24: January 15, 2018
 Today's Progress: Completed day 21 on 30 day CSS3 course. Finished up array workout 2 on #JavaScript30 challenge. Reading and studying what I can in my spare time. Started Practical Javascript from watchandcode.com, it's very informative, this should help my javascript blocks. 
 
 Thoughts: Just keep coding, just keep coding...
+
+Day 25: January 16, 2018
+
+Today's Progress: Completed day 22 on 30 day CSS3 course. 
