@@ -152,4 +152,6 @@ Thoughts: watchandcode.com is a valuable resource.
 
 Day 26: January 17, 2018
 
-Today's Progress: Completed day 23 on 30 day CSS3 course. Completed another day of #JavaScript 30. 
+Today's Progress: Completed day 23 on 30 day CSS3 course. Completed another day of #JavaScript 30. Worked on some JavaScript practice. 
+
+Thoughts: If I keep pushing through, I will understand this one day. 
