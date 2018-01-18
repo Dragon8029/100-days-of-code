@@ -158,4 +158,6 @@ Thoughts: If I keep pushing through, I will understand this one day.
 
 Day 27: January 18, 2018
 
-Today's Progress: Completed day 24 on 30 day CSS3 course. Completed the "Hold shift to Check Multiple Checkboxes" challenge on #JavaScript30 course. Did version 6 of Practical Javascript lessons.
+Today's Progress: Completed day 24 on 30 day CSS3 course. Completed the "Hold shift to Check Multiple Checkboxes" challenge on #JavaScript30 course. Completed version 6 of Practical Javascript lessons. Worked on some Javascript practice from "A Smarter Way to Learn". 
+
+Thoughts: It feels like I'm grasping this, but history has shown otherwise. Keep practicing....
