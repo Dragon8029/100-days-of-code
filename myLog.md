@@ -170,4 +170,6 @@ Thoughts: The journey of 1000 miles begins with a single step...
 
 Day 29: January 20, 2018
 
-Today's Progress: Completed day 26 of 30 day CSS3 course. 
+Today's Progress: Completed day 26 of 30 day CSS3 course. Completed the Key Detection(Konami Code) from #JavaScript30. Worked on Practical Javascript. 
+
+Thoughts: It's tough to find time some days. But there is always time somewhere. 
