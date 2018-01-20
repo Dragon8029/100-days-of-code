@@ -167,3 +167,7 @@ Day 28: January 19, 2018
 Today's Progress: Completed day 25 on 30 day CSS3 course. Completed another day of #JavaScript30 challenge. Continued on with the Practical JavaScript course from watchandcode.com
 
 Thoughts: The journey of 1000 miles begins with a single step...
+
+Day 29: January 20, 2018
+
+Today's Progress: Completed day 26 of 30 day CSS3 course. 
