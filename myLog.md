@@ -173,3 +173,9 @@ Day 29: January 20, 2018
 Today's Progress: Completed day 26 of 30 day CSS3 course. Completed the Key Detection(Konami Code) from #JavaScript30. Worked on Practical Javascript. 
 
 Thoughts: It's tough to find time some days. But there is always time somewhere. 
+
+Day 30: January 21, 2018
+
+Today's Progress: Completed day 27 of 30 day CSS3 course. Completed day 13 of #JavaScript30. Continued on with Practical JavaScript course. 
+
+Thoughts: I want more time to code....
