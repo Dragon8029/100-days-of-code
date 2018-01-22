@@ -179,3 +179,7 @@ Day 30: January 21, 2018
 Today's Progress: Completed day 27 of 30 day CSS3 course. Completed day 13 of #JavaScript30. Continued on with Practical JavaScript course. 
 
 Thoughts: I want more time to code....
+
+Day 31: January 22, 2018
+
+Today's Progress: Finished day 28 of 30 day CSS3 course. 
