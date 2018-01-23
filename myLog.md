@@ -185,3 +185,7 @@ Day 31: January 22, 2018
 Today's Progress: Finished day 28 of 30 day CSS3 course. Finished another #JavaScript30 challenge. Completed my mission 1 for #CNC2018. 
 
 Thoughts: Learning something new, and keeping my brain engaged makes the days seem more meaningful...
+
+Day 32: January 23, 2018
+
+Today's Progress: Finished day 29 of 30 day CSS3 course. 
