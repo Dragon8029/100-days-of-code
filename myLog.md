@@ -194,4 +194,6 @@ Thoughts: I will understand Javascript one day.
 
 Day 33: January 24, 2018
 
-Today's Progress: Copleted the CSS3 in 30 day course. 
+Today's Progress: Completed the CSS3 in 30 day course. Finished LocalStorage from #JavaScript30. Continued reading up on JavaSript. 
+
+Thoughts: Still trying to understand JavaScript. 
