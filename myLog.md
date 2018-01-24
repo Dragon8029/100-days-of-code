@@ -191,3 +191,7 @@ Day 32: January 23, 2018
 Today's Progress: Finished day 29 of 30 day CSS3 course. Worked on a couple #freeCodeCamp algorithm challenges. Spent some time looking up JavaScript methods, and trying to understand them. Time well spent.
 
 Thoughts: I will understand Javascript one day. 
+
+Day 33: January 24, 2018
+
+Today's Progress: Copleted the CSS3 in 30 day course. 
