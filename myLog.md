@@ -197,3 +197,7 @@ Day 33: January 24, 2018
 Today's Progress: Completed the CSS3 in 30 day course. Finished LocalStorage from #JavaScript30. Continued reading up on JavaSript. 
 
 Thoughts: Still trying to understand JavaScript. 
+
+Day 34: January 25, 2018
+
+Today's Progress: Finished "Mouse Shadow" #JavaScript30. 
