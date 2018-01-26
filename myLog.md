@@ -200,6 +200,6 @@ Thoughts: Still trying to understand JavaScript.
 
 Day 34: January 25, 2018
 
-Today's Progress: Finished "Mouse Shadow" and "Sorting Band Names without Articles" #JavaScript30. Continued reading YDKJS. 
+Today's Progress: Finished "Mouse Shadow" and "Sorting Band Names without Articles" #JavaScript30. Continued reading YDKJS. Also worked on "Webcam Fun", need to revisit this later. Couldn't get the colors to change, even after comparing to the Instructors code.
 
 Thoughts: Keep on coding...
