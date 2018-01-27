@@ -212,6 +212,6 @@ Thoughts: Need more time to code...
 
 Day 36: January 27, 2018
 
-Today's Progress: Had some trouble getting "Geolocation" to work #JavaScript30. Will come back to that one later. Decided to start Colt Steele's Web Developer Bootcamp on Udemy. 
+Today's Progress: Had some trouble getting "Geolocation" to work #JavaScript30. Will come back to that one later. Decided to start Colt Steele's Web Developer Bootcamp on Udemy. So far have made it to video 26 "HTML Tables". 
 
 Thoughts: Trying to code as much as possible. 
