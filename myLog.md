@@ -206,4 +206,12 @@ Thoughts: Keep on coding...
 
 Day 35: January 26, 2018
 
-Today's Progress: Finished "Native Speech Recognition" #JavaScript30. 
+Today's Progress: Finished "Native Speech Recognition" #JavaScript30. Read some more YDKJS
+
+Thoughts: Need more time to code...
+
+Day 36: January 27, 2018
+
+Today's Progress: Had some trouble getting "Geolocation" to work #JavaScript30. Will come back to that one later. Decided to start Colt Steele's Web Developer Bootcamp on Udemy. 
+
+Thoughts: Trying to code as much as possible. 
