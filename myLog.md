@@ -221,3 +221,7 @@ Day 37: January 28, 2018
 Today's Progress: Finished up the Intermediate HTML section from Web Developer Bootcamp on Udemy. Started on the Intro to CSS section.
 
 Thoughts: Still trying to find time.....
+
+Day 38: January 29, 2018
+
+Today's Progress: Continued working on Introduction to CSS from Web Developer Bootcamp on Udemy. 
