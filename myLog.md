@@ -224,4 +224,6 @@ Thoughts: Still trying to find time.....
 
 Day 38: January 29, 2018
 
-Today's Progress: Continued working on Introduction to CSS from Web Developer Bootcamp on Udemy. 
+Today's Progress: Finished working on Introduction to CSS and started on the Intermediate CSS section from Web Developer Bootcamp on Udemy. 
+
+Thoughts: I love having time to code after work...
