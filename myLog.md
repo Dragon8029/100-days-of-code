@@ -227,3 +227,9 @@ Day 38: January 29, 2018
 Today's Progress: Finished working on Introduction to CSS and started on the Intermediate CSS section from Web Developer Bootcamp on Udemy. 
 
 Thoughts: I love having time to code after work...
+
+Day 39: January 30, 2018
+
+Today's Progress: Made it through the Intermediate CSS section from Web Developer Bootcamp on @Udemy. Next up, Bootstrap. 
+
+Thoughts: I love to code, I can't wait until this starts to make sense.... :)
