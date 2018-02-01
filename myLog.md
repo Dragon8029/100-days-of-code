@@ -233,3 +233,9 @@ Day 39: January 30, 2018
 Today's Progress: Made it through the Intermediate CSS section from Web Developer Bootcamp on @Udemy. Next up, Bootstrap. 
 
 Thoughts: I love to code, I can't wait until this starts to make sense.... :)
+
+Day 40: January 31, 2018
+
+Today's Progress: Managed to get about halfway throught the bootstrap section on @udemy Web Developer Bootcamp. 
+
+Thoughts: Keep Moving Forward!!!
