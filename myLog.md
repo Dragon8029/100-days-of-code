@@ -239,3 +239,9 @@ Day 40: January 31, 2018
 Today's Progress: Managed to get about halfway throught the bootstrap section on @udemy Web Developer Bootcamp. 
 
 Thoughts: Keep Moving Forward!!!
+
+Day 41: February 1, 2018
+
+Today's Progress: Finished the bootstrap section, and started the introductory section of Web Developer Bootcamp @udemy. 
+
+Thoughts: This is a good course so far. 
