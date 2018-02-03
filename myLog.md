@@ -245,3 +245,9 @@ Day 41: February 1, 2018
 Today's Progress: Finished the bootstrap section, and started the introductory section of Web Developer Bootcamp @udemy. 
 
 Thoughts: This is a good course so far. 
+
+Day 42: February 2, 2018
+
+Today's Progress: Made it through the Introduction to JavaScript section and started on the JavaScript Basics: Control Flow section from @udemy Web Developer Bootcamp. 
+
+Thoughts: I need more time to code. I Love this!!!!
