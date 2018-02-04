@@ -257,3 +257,9 @@ Day 43: February 3, 2018
 Today's Progress: Continued on with JavaScript Basics: Control Flow section from @udemy Web Developer Bootcamp. 
 
 Thoughts: I still need to find more time to code.....
+
+Day 44: February 4, 2018
+
+Today's Progress: Finished up the Control Flow section and started on the Functions section for JavaScript Basics on Web Developer Bootcamp on @udemy. 
+
+Thoughts: Still looking for more time to code....
