@@ -263,3 +263,10 @@ Day 44: February 4, 2018
 Today's Progress: Finished up the Control Flow section and started on the Functions section for JavaScript Basics on Web Developer Bootcamp on @udemy. 
 
 Thoughts: Still looking for more time to code....
+
+Day 45: February 5, 2018
+
+Today's Progress: Finished up the Javascript Basics: Functions, Javascript Basics: Arrays is next up on Web Developer Bootcamp from @udemy. 
+
+Thoughts: I'm loving this...
+ 
