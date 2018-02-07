@@ -269,4 +269,14 @@ Day 45: February 5, 2018
 Today's Progress: Finished up the Javascript Basics: Functions, Javascript Basics: Arrays is next up on Web Developer Bootcamp from @udemy. 
 
 Thoughts: I'm loving this...
+
+Day 46: February 6, 2018
+
+Today's Progress: Continued working on Javascript Basics: Arrays. 
+
+Thoughts: Trying to remember everything is tough...
+
+Day 47: February 7, 2018
+
+Today's Progress: Still working on the Javascript Basics: Arrays section. 
  
