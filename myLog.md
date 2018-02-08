@@ -278,5 +278,7 @@ Thoughts: Trying to remember everything is tough...
 
 Day 47: February 7, 2018
 
-Today's Progress: Still working on the Javascript Basics: Arrays section. 
+Today's Progress: Still working on the Javascript Basics: Arrays section. Took a break to try and figure out why WakaTime was not working. Email from WakaTime founder said that Python was out of date on my machine. Managed to get Python upgraded, and now WakaTime is working. This is an amazing tool to track how much time I spend on coding. It may not completly replace Rescue time, but it will supplement it. Almost made it to the end of the array section of Web Developer Bootcamp. 
+
+Thoughts: I hope will learn how to use Javascript!
  
