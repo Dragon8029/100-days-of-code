@@ -286,4 +286,10 @@ Day 48: February 8, 2018
 
 Today's Progress: Finished up the Arrays section. Moved on to the Javascript Basics: Objects section on Web Developer Bootcamp from @udemy. 
 
-Thoughts:  
+Thoughts: Need to keep practicing. 
+
+Day 49: February 9, 2018
+
+Today's Progress: Completed the Objects section. Now onto the DOM Manipulation section. 
+
+Thoughts: 
