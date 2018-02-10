@@ -292,4 +292,10 @@ Day 49: February 9, 2018
 
 Today's Progress: Completed the Objects section. Now onto the DOM Manipulation section. 
 
-Thoughts: 
+Thoughts: Need to keep practicing. 
+
+Day 50: February 10, 2018
+
+Today's Progress: Started on the DOM section of Web Developer Bootcamp on @udemy. 
+
+Thoughts: Things are getting interesting now. 
