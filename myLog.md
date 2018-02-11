@@ -299,3 +299,9 @@ Day 50: February 10, 2018
 Today's Progress: Started on the DOM section of Web Developer Bootcamp on @udemy. 
 
 Thoughts: Things are getting interesting now. 
+
+Day 51: February 11, 2018
+
+Today's Progress: Finished up the DOM Manipulation section, moved on to the Advanced DOM Manipulation of Web Developer Bootcamp on @udemy. 
+
+Thoughts: Things seem to be making more sense, now that it's all coming together. 
