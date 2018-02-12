@@ -305,3 +305,9 @@ Day 51: February 11, 2018
 Today's Progress: Finished up the DOM Manipulation section, moved on to the Advanced DOM Manipulation of Web Developer Bootcamp on @udemy. 
 
 Thoughts: Things seem to be making more sense, now that it's all coming together. 
+
+Day 52: February 12, 2018
+
+Today's Progress: Took a break from Web Developer Bootcamp. Decided to work on a webpage that's been a project for while. Managed to get the Navbar styled up how I like, and the Image gallery is coming together nicely. Just need to figure out how to get the "acitve" class to apply to navbar for each section. 
+
+Thoughts: All good things take time. 
