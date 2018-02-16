@@ -311,3 +311,9 @@ Day 52: February 12, 2018
 Today's Progress: Took a break from Web Developer Bootcamp. Decided to work on a webpage that's been a project for while. Managed to get the Navbar styled up how I like, and the Image gallery is coming together nicely. Just need to figure out how to get the "acitve" class to apply to navbar for each section. 
 
 Thoughts: All good things take time. 
+
+Day 53: February 15, 2018
+
+Today's Progress: Continued on with Web Developer Bootcamp on @udemy. 
+
+Thoughts: Just keep Coding.
