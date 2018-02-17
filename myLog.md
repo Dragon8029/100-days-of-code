@@ -317,3 +317,9 @@ Day 53: February 15, 2018
 Today's Progress: Continued on with Web Developer Bootcamp on @udemy. 
 
 Thoughts: Just keep Coding.
+
+Day 54: February 16, 2018
+
+Today's Progress: Finished up the Advanced DOM Manipulation section. Working on the Color Game Project. Loving the DOM manipulations and seeing how it brings the functionality of a basic page to life. 
+
+Thoughts: It's been a good day!
