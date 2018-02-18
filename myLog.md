@@ -323,3 +323,9 @@ Day 54: February 16, 2018
 Today's Progress: Finished up the Advanced DOM Manipulation section. Working on the Color Game Project. Loving the DOM manipulations and seeing how it brings the functionality of a basic page to life. 
 
 Thoughts: It's been a good day!
+
+Day 55: February 17, 2018
+
+Today's Progress: Continued on withe the Color Game from Web Developer Bootcamp @udemy.
+
+Thoughts: I really enjoy coding. 
