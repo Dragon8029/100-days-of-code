@@ -329,3 +329,9 @@ Day 55: February 17, 2018
 Today's Progress: Continued on withe the Color Game from Web Developer Bootcamp @udemy.
 
 Thoughts: I really enjoy coding. 
+
+Day 56: February 18, 2018
+
+Today's Progress: Finished up the Color Game from Web Developer Bootcamp @udemy. 
+
+Thoughts: Slowly learning...
