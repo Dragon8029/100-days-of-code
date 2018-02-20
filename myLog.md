@@ -335,3 +335,9 @@ Day 56: February 18, 2018
 Today's Progress: Finished up the Color Game from Web Developer Bootcamp @udemy. 
 
 Thoughts: Slowly learning...
+
+Day 57: February 19, 2018
+
+Today's Progress: Started the Intro to jQuery section on Web Developer Bootcamp from @udemy.
+
+Thoughts: Hard work will eventually pay off. 
