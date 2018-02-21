@@ -344,6 +344,6 @@ Thoughts: Hard work will eventually pay off.
 
 Day 58: February 20, 2018
 
-Today's Progress: Made it throught the intro jQuery section. Onto the Advanced jQuery section of Web Developer Bootcamp from @udemy. 
+Today's Progress: Made it through the intro jQuery section. Onto the Advanced jQuery section of Web Developer Bootcamp from @udemy. 
 
 Thoughts: This is a love/hate relationship, but I'm glad i went down the rabbit hole....
