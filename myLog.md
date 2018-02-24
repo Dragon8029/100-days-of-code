@@ -353,3 +353,15 @@ Day 59: February 21, 2018
 Today's Progress: Found a bootstrap template to use for my single page project. Now my navbar is able to change class to "Active" on scroll by section. Now I am working on re-doing the project to work with the template.
 
 Thoughts: I Love being able to use some of what I learn.  
+
+Day 60: February 22, 2018
+
+Today's Progress: Worked on some styling for the "Wildwood" project. 
+
+Thoughts: Not enough time in the day....
+
+Day 61: February 23, 2018
+
+Today's Progress: Continued working on my project. The styling is all coming together now. I'm happy with how it's turning out. Now I need the "client" to get some better photos of their work so I can add them to the page. 
+
+Thoughts: It's all starting to come together....
