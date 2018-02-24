@@ -365,3 +365,9 @@ Day 61: February 23, 2018
 Today's Progress: Continued working on my project. The styling is all coming together now. I'm happy with how it's turning out. Now I need the "client" to get some better photos of their work so I can add them to the page. 
 
 Thoughts: It's all starting to come together....
+
+Day 62: February 24, 2018
+
+Today's Progress: Working on getting a lightbox modal window to work for the images portfolio on my project. Still need to get some styling elements done on the modal window, but it's coming together nicely. 
+
+Thoughts: More goes into a web page than I thought...
