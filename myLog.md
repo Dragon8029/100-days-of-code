@@ -371,3 +371,9 @@ Day 62: February 24, 2018
 Today's Progress: Working on getting a lightbox modal window to work for the images portfolio on my project. Still need to get some styling elements done on the modal window, but it's coming together nicely. 
 
 Thoughts: More goes into a web page than I thought...
+
+Day 63: February 25, 2018
+
+Today's Progress: Added all the photos to the thumbnail chooser, and modal window. Moved page over to github pages, but some of the photo links broke. 
+
+Thoughts: Lots of ups and downs with coding. 
