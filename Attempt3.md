@@ -12,3 +12,9 @@ Apr 23, 2018
 
 Finished up the Patatap clone and moved started the Backend basics section from Web Developer Bootcamp. 
 
+A3D3:
+Apr 24, 2018
+
+Finished working on the backend basics section and completed  the Command Line section from Web Developer Bootcamp @Udemy 
+
+
