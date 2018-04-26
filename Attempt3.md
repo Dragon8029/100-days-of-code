@@ -17,4 +17,9 @@ Apr 24, 2018
 
 Finished working on the backend basics section and completed  the Command Line section from Web Developer Bootcamp @Udemy 
 
+A3D4:
+Apr 25, 2018
+
+Started working throught the Node.JS section of Web Developer Bootcamp @Udemy
+
 
