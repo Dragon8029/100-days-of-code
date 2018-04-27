@@ -22,4 +22,8 @@ Apr 25, 2018
 
 Started working throught the Node.JS section of Web Developer Bootcamp @Udemy
 
+A3D5:
+Apr 26, 2018
+
+Finished the Node.JS section and moved onto Server Side Frameworks on Web Developer Bootcamp @Udemy
 
