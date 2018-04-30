@@ -31,3 +31,8 @@ A3D6:
 Apr 28, 2018
 
 Carried on with Server Side Frameworks on Web Developer Bootcamp from @Udemy
+
+A3D7:
+Apr 29, 2018
+
+Finished the Server Side Frameworks section, moved onto the Intermediate Express section on Web Developer Bootcamp from @Udemy
