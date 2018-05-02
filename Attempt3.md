@@ -41,3 +41,8 @@ A3D8:
 Apr 30, 2018
 
 Continued with the Intermediate Express section on Web Developer Bootcamp from @Udemy
+
+A3D9: 
+May 1, 2018
+
+Finished up the Intermediate Express section on Web Developer Bootcamp from @Udemy. Learned about Get and Post requests...getting into the good stuff now! 
