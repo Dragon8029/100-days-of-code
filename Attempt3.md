@@ -46,3 +46,10 @@ A3D9:
 May 1, 2018
 
 Finished up the Intermediate Express section on Web Developer Bootcamp from @Udemy. Learned about Get and Post requests...getting into the good stuff now! 
+
+A3D10:
+May 3, 2018
+
+Finished the Working With API's section and started the YelpCamp:Basics section on Web Developer Bootcamp from @Udemy
+
+
