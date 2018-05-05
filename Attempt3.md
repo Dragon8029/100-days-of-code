@@ -57,3 +57,7 @@ May 4, 2018
 
 Completed the YelpCamp: Basics, Databases, YelpCamp: Data Persistence sections and started working on the RESTful Routing section on Web Developer Bootcamp from @Udemy
 
+A3D12:
+May 5, 2018
+
+Completed the RESTful Routing section and started working through Data Associations section on Web Developer Bootcamp from @Udemy
