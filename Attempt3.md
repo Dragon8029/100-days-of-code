@@ -52,4 +52,8 @@ May 3, 2018
 
 Finished the Working With API's section and started the YelpCamp:Basics section on Web Developer Bootcamp from @Udemy
 
+A3D11:
+May 4, 2018
+
+Completed the YelpCamp: Basics, Databases, YelpCamp: Data Persistence sections and started working on the RESTful Routing section on Web Developer Bootcamp from @Udemy
 
