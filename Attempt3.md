@@ -61,3 +61,8 @@ A3D12:
 May 5, 2018
 
 Completed the RESTful Routing section and started working through Data Associations section on Web Developer Bootcamp from @Udemy
+
+A3D13
+May 6, 2018
+
+Finished the Data Associations section, and started working through the YelpCamp: Comments section on Web Developer Bootcamp from @Udemy
