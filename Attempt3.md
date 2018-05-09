@@ -66,3 +66,9 @@ A3D13
 May 6, 2018
 
 Finished the Data Associations section, and started working through the YelpCamp: Comments section on Web Developer Bootcamp from @Udemy
+
+A3D14
+May 8, 2018
+
+Continued working on the YelpCamp: Comments section. Having some trouble getting mongodb to agree with the Cloud 9 setup. But I'm sure I will get this, ,it's part of being a developer. 
+
