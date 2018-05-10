@@ -72,3 +72,7 @@ May 8, 2018
 
 Continued working on the YelpCamp: Comments section. Having some trouble getting mongodb to agree with the Cloud 9 setup. But I'm sure I will get this, ,it's part of being a developer. 
 
+A3D15
+May 9, 2018
+
+Figured out my mongodb error, turns out that it was a typo in my code...LETTER CASE MATTERS!!! Valuable lesson learned. Finished the YelpCamp: Comment Model lesson after finding my error. 
