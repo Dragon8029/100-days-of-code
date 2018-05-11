@@ -76,3 +76,9 @@ A3D15
 May 9, 2018
 
 Figured out my mongodb error, turns out that it was a typo in my code...LETTER CASE MATTERS!!! Valuable lesson learned. Finished the YelpCamp: Comment Model lesson after finding my error. 
+
+A3D16
+May 10, 2018
+
+Made my way through the YelpCamp: Creating Comments Pt1 and Pt2 on Web Developer Bootcamp from @Udemy
+Lots of debugging(frustration), but totaly worth it once it all starts to wokr correctly. 
