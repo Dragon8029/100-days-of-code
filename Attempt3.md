@@ -82,3 +82,9 @@ May 10, 2018
 
 Made my way through the YelpCamp: Creating Comments Pt1 and Pt2 on Web Developer Bootcamp from @Udemy
 Lots of debugging(frustration), but totaly worth it once it all starts to wokr correctly. 
+
+A3D17
+May 12, 2018
+
+Finished up the YelpCamp Comments section, and started the Authentication section on Web Developer Bootcamp from @Udemy
+
