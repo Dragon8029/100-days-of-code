@@ -88,3 +88,9 @@ May 12, 2018
 
 Finished up the YelpCamp Comments section, and started the Authentication section on Web Developer Bootcamp from @Udemy
 
+A3D18
+May 13, 2018
+
+Continued working through the Authenticaton section on Web Developer Bootcamp from @Udemy
+
+
