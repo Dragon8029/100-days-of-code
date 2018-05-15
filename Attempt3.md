@@ -93,4 +93,9 @@ May 13, 2018
 
 Continued working through the Authenticaton section on Web Developer Bootcamp from @Udemy
 
+A3D19
+May 14, 2018
+
+Finished up the Authentication section on Web Developer Bootcamp from @Udemy
+
 
