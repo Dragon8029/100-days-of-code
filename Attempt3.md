@@ -98,4 +98,9 @@ May 14, 2018
 
 Finished up the Authentication section on Web Developer Bootcamp from @Udemy
 
+A3D20
+May 15, 2018
+
+Completed YelpCamp: Adding Auth Pt. 1 and Pt. 2 on Web Develpoer Bootcamp from @Udemy
+
 
