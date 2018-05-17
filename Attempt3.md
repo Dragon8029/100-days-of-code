@@ -108,4 +108,7 @@ May 16, 2018
 
 Finished up the YelpCamp: Adding Authentication section on Web Developer Bootcamp from @Udemy
 
+A3D22
+May 17, 2018
 
+Worked through the YelpCamp: Cleaning Up section, and started working through the YelpCamp: Update and Destroy section on Web Developer Bootcamp from @Udemy 
