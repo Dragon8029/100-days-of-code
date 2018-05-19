@@ -118,3 +118,8 @@ May 18, 2018
 
 Finished up the YelpCamp: Update and Destroy section and the YelpCamp: UI Improvements section, and started working through the Git and Github section on Web Developer Bootcamp from @Udemy
 I will need to go back to the UI Improvements section and look into the futher UI Improvements that are listed at the end of the section. 
+
+A3D24
+May 19, 2018
+
+Finished upt the Git and Github section, started working through the Deploying section on Web Developer Bootcamp from @Udemy
