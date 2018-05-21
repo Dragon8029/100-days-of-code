@@ -113,14 +113,19 @@ May 17, 2018
 
 Worked through the YelpCamp: Cleaning Up section, and started working through the YelpCamp: Update and Destroy section on Web Developer Bootcamp from @Udemy 
 
-A3D23
-May 18, 2018
+---
+
+##A3D23
+*May 18, 2018*
 
 Finished up the YelpCamp: Update and Destroy section and the YelpCamp: UI Improvements section, and started working through the Git and Github section on Web Developer Bootcamp from @Udemy
 I will need to go back to the UI Improvements section and look into the futher UI Improvements that are listed at the end of the section. 
 
-A3D24
-May 19, 2018
+---
+
+##A3D24
+
+*May 19, 20188*
 
 Finished upt the Git and Github section, started working through the Deploying section on Web Developer Bootcamp from @Udemy
 
@@ -128,7 +133,7 @@ Finished upt the Git and Github section, started working through the Deploying s
 
 ## A3D25
 
-May 20, 2018
+*May 20, 2018*
 
 Completed the Web Developer Bootcamp course by Colt Steel from @Udemy. 
 Worked on some refactoring and extra's that are not required to finish the course, but help make the main app project look better. 
