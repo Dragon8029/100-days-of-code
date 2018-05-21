@@ -124,14 +124,14 @@ May 19, 2018
 
 Finished upt the Git and Github section, started working through the Deploying section on Web Developer Bootcamp from @Udemy
 
-A3D25
-May 20, 2018
+##A3D25
+######May 20, 2018
 
 Completed the Web Developer Bootcamp course by Colt Steel from @Udemy. 
 Worked on some refactoring and extra's that are not required to finish the course, but help make the main app project look better. 
 
-A3D26
-May 21, 2018
+##A3D26
+######May 21, 2018
 
 Decided to start "The Complete JavaScript Course 2018" from @Udemy. 
 I feel that i need a better grasp of Javascript, and some more practice. Today was spent just going through some of the very basics. 
