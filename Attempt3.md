@@ -62,42 +62,49 @@ Continued with the Intermediate Express section on Web Developer Bootcamp from @
 
 ## A3D9: 
 *May 1, 2018*
+
 Finished up the Intermediate Express section on Web Developer Bootcamp from @Udemy. Learned about Get and Post requests...getting into the good stuff now! 
 
 ---
 
 ## A3D10:
 *May 3, 2018*
+
 Finished the Working With API's section and started the YelpCamp:Basics section on Web Developer Bootcamp from @Udemy
 
 ---
 
 ## A3D11:
 *May 4, 2018*
+
 Completed the YelpCamp: Basics, Databases, YelpCamp: Data Persistence sections and started working on the RESTful Routing section on Web Developer Bootcamp from @Udemy
 
 ---
 
 ## A3D12:
 *May 5, 2018*
+
 Completed the RESTful Routing section and started working through Data Associations section on Web Developer Bootcamp from @Udemy
 
 ---
 
 ## A3D13
 *May 6, 2018*
+
 Finished the Data Associations section, and started working through the YelpCamp: Comments section on Web Developer Bootcamp from @Udemy
 
 ---
 
 ## A3D14
 *May 8, 2018*
+
 Continued working on the YelpCamp: Comments section. Having some trouble getting mongodb to agree with the Cloud 9 setup. But I'm sure I will get this, ,it's part of being a developer. 
 
 ---
 
 ## A3D15
 *May 9, 2018*
+
 Figured out my mongodb error, turns out that it was a typo in my code...LETTER CASE MATTERS!!! Valuable lesson learned. Finished the YelpCamp: Comment Model lesson after finding my error. 
 
 ---
@@ -183,3 +190,12 @@ Worked on some refactoring and extra's that are not required to finish the cours
 
 Decided to start "The Complete JavaScript Course 2018" from @Udemy. 
 I feel that i need a better grasp of Javascript, and some more practice. Today was spent just going through some of the very basics. 
+
+---
+
+## A3D27
+
+*May 22, 2018*
+
+Continued on with the JavaScript course. Still covering the basics, but it's nice to review things after focusing on other code for a while. 
+
