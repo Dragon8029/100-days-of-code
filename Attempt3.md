@@ -199,3 +199,34 @@ I feel that i need a better grasp of Javascript, and some more practice. Today w
 
 Continued on with the JavaScript course. Still covering the basics, but it's nice to review things after focusing on other code for a while. 
 
+---
+
+## A3D28
+
+*May 24, 2018*
+
+Carried on with the JavaScript course. Still covering basics, like expressions, statements, functions, arrays, etc...I am finding it useful to review, as it helps cement the knowledge in. 
+
+## A3D29
+
+*May 26, 2018*
+
+Still covering the basics of Javascript on Complete Javascript course. 
+
+---
+
+##A3D30
+
+*May 27, 2018* 
+
+Stalled out a bit on the Complete Javascript course, and over the last few days. 
+Trying to get back into it. 
+
+---
+
+##A3D31
+
+*May 28, 2018*
+
+Finally finished up the Javascript Basics from "The Complete JavaScript Course 2018" from @Udemy. 
+
