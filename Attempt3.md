@@ -230,3 +230,9 @@ Trying to get back into it.
 
 Finally finished up the Javascript Basics from "The Complete JavaScript Course 2018" from @Udemy. 
 
+##A3D32
+
+*May 29, 2018*
+
+Working through section 3 of "The Complete JavaScript Course 2018" from @Udemy
+Learned about Execution Contexts and the Execution Stack, along with the Execution Phases and Hoisting. 
