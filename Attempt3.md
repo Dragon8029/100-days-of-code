@@ -236,3 +236,9 @@ Finally finished up the Javascript Basics from "The Complete JavaScript Course 2
 
 Working through section 3 of "The Complete JavaScript Course 2018" from @Udemy
 Learned about Execution Contexts and the Execution Stack, along with the Execution Phases and Hoisting. 
+
+##A3D33
+
+*May 30, 2018*
+
+Finished working through section 3. Learned about scoping and the scope chain, the "this" keyword. Started on section 4 on DOM and DOM Manipulation.
