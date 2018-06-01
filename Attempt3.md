@@ -242,3 +242,9 @@ Learned about Execution Contexts and the Execution Stack, along with the Executi
 *May 30, 2018*
 
 Finished working through section 3. Learned about scoping and the scope chain, the "this" keyword. Started on section 4 on DOM and DOM Manipulation.
+
+##A3D34
+
+*May 31, 2018*
+
+Continued on section 4, Set up the Project(Pig Game), worked through the first DOM Access and Manipulation and worked on some event handling by getting the dice to "roll".
