@@ -254,3 +254,9 @@ Continued on section 4, Set up the Project(Pig Game), worked through the first D
 *June 1, 2018*
 
 Continued working on the Pig Game. Didn't get as much done as I wanted, but happy that I managed to get some time in...
+
+##A3D36
+
+*June 2, 2018*
+
+Finished up the Pig Game. Worked on some additional features/challenges with the game. Played around with some DOM Manipulation. 
