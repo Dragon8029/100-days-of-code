@@ -248,3 +248,9 @@ Finished working through section 3. Learned about scoping and the scope chain, t
 *May 31, 2018*
 
 Continued on section 4, Set up the Project(Pig Game), worked through the first DOM Access and Manipulation and worked on some event handling by getting the dice to "roll".
+
+##A3D35
+
+*June 1, 2018*
+
+Continued working on the Pig Game. Didn't get as much done as I wanted, but happy that I managed to get some time in...
