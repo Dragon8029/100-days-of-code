@@ -230,6 +230,8 @@ Trying to get back into it.
 
 Finally finished up the Javascript Basics from "The Complete JavaScript Course 2018" from @Udemy. 
 
+---
+
 ##A3D32
 
 *May 29, 2018*
@@ -237,11 +239,15 @@ Finally finished up the Javascript Basics from "The Complete JavaScript Course 2
 Working through section 3 of "The Complete JavaScript Course 2018" from @Udemy
 Learned about Execution Contexts and the Execution Stack, along with the Execution Phases and Hoisting. 
 
+---
+
 ##A3D33
 
 *May 30, 2018*
 
 Finished working through section 3. Learned about scoping and the scope chain, the "this" keyword. Started on section 4 on DOM and DOM Manipulation.
+
+---
 
 ##A3D34
 
@@ -249,14 +255,26 @@ Finished working through section 3. Learned about scoping and the scope chain, t
 
 Continued on section 4, Set up the Project(Pig Game), worked through the first DOM Access and Manipulation and worked on some event handling by getting the dice to "roll".
 
+---
+
 ##A3D35
 
 *June 1, 2018*
 
 Continued working on the Pig Game. Didn't get as much done as I wanted, but happy that I managed to get some time in...
 
+---
+
 ##A3D36
 
 *June 2, 2018*
 
 Finished up the Pig Game. Worked on some additional features/challenges with the game. Played around with some DOM Manipulation. 
+
+---
+
+##A3D37
+
+*June 3, 2018*
+
+Started working through the Advanced JavaScript: Objects and Functions section from the Complete JavaScript Course 2018 from @Udemy. Also jumped back to freeCodeCamp to check out what they have added, I have a long ways to go to finish up there...but it looks like some massive improvements to the curriculum.
