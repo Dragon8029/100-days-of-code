@@ -278,3 +278,11 @@ Finished up the Pig Game. Worked on some additional features/challenges with the
 *June 3, 2018*
 
 Started working through the Advanced JavaScript: Objects and Functions section from the Complete JavaScript Course 2018 from @Udemy. Also jumped back to freeCodeCamp to check out what they have added, I have a long ways to go to finish up there...but it looks like some massive improvements to the curriculum.
+
+---
+
+##A3D38
+
+*June 4, 2018*
+
+Worked through some fCC challenges. Working on the Applied Visual Design section, this is new from when I was last on fCC. 
