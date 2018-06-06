@@ -286,3 +286,11 @@ Started working through the Advanced JavaScript: Objects and Functions section f
 *June 4, 2018*
 
 Worked through some fCC challenges. Working on the Applied Visual Design section, this is new from when I was last on fCC. 
+
+---
+
+##A3D39
+
+*June 5, 2018*
+
+Finished working through the Applied Visual Design section. @freeCodeCamp
