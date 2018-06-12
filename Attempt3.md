@@ -294,3 +294,11 @@ Worked through some fCC challenges. Working on the Applied Visual Design section
 *June 5, 2018*
 
 Finished working through the Applied Visual Design section. @freeCodeCamp
+
+---
+
+##A3D40
+
+*June 11, 2018*
+
+Continued working through the Applied Visual Design section. @freeCodeCamp
