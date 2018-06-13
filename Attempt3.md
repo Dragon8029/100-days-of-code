@@ -302,3 +302,12 @@ Finished working through the Applied Visual Design section. @freeCodeCamp
 *June 11, 2018*
 
 Continued working through the Applied Visual Design section. @freeCodeCamp
+
+---
+
+##A3D41
+
+*June 12, 2018*
+
+Finished working through the Applied Accessibility section from @freeCodeCamp.
+
