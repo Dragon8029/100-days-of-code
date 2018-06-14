@@ -311,3 +311,11 @@ Continued working through the Applied Visual Design section. @freeCodeCamp
 
 Finished working through the Applied Accessibility section from @freeCodeCamp.
 
+---
+
+##A3D42
+
+*June 14, 2018*
+
+Worked through the Responsive Web Design Principles, CSS Flexbox, and most of the CSS Grid sections from @freeCodeCamp. Brain needs a bit of a break from it today, just can't seem to concentrate....
+
