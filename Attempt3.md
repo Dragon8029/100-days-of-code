@@ -319,3 +319,12 @@ Finished working through the Applied Accessibility section from @freeCodeCamp.
 
 Worked through the Responsive Web Design Principles, CSS Flexbox, and most of the CSS Grid sections from @freeCodeCamp. Brain needs a bit of a break from it today, just can't seem to concentrate....
 
+---
+
+#A3D43
+
+*June 15, 2018*
+
+Finished up the CSS Grid Section, now working on the "Build a Survey Form" responsive web design project from @freeCodeCamp
+
+
