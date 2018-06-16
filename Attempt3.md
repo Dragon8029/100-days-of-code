@@ -321,10 +321,17 @@ Worked through the Responsive Web Design Principles, CSS Flexbox, and most of th
 
 ---
 
-#A3D43
+##A3D43
 
 *June 15, 2018*
 
 Finished up the CSS Grid Section, now working on the "Build a Survey Form" responsive web design project from @freeCodeCamp
 
+---
+
+##A3D44
+
+*June 16, 2018*
+
+Finished working on the "Build a Survey Form" from @freeCodeCamp, it's taking longer than I expected. But still a good learning experience. 
 
