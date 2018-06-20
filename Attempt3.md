@@ -335,3 +335,8 @@ Finished up the CSS Grid Section, now working on the "Build a Survey Form" respo
 
 Finished working on the "Build a Survey Form" from @freeCodeCamp, it's taking longer than I expected. But still a good learning experience. 
 
+##A3D45
+
+*June 19, 2018*
+
+After taking a couple days off, I started working on the "Product Landing page" from @freeCodeCamp. 
