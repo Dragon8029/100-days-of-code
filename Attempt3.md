@@ -340,3 +340,20 @@ Finished working on the "Build a Survey Form" from @freeCodeCamp, it's taking lo
 *June 19, 2018*
 
 After taking a couple days off, I started working on the "Product Landing page" from @freeCodeCamp. 
+
+---
+
+##A3D46
+
+*June 24, 2018*
+
+After a few power outages, children's birthday parties and some other family priorities, I finally found time to do some coding. Got about halfway through a youtube "Asteroids" tutorial using JavaScript.
+
+---
+
+##A3D47
+
+*June 26, 2018*
+
+Continued working through the "Asteroids" tutorial. Alsmost got the lasers to shoot properly. Have a bug to find tomorrow....the asteroids stop moving when I fire the laser. 
+
