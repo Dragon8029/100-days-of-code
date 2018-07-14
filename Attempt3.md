@@ -355,5 +355,5 @@ After a few power outages, children's birthday parties and some other family pri
 
 *June 26, 2018*
 
-Continued working through the "Asteroids" tutorial. Alsmost got the lasers to shoot properly. Have a bug to find tomorrow....the asteroids stop moving when I fire the laser. 
+Continued working through the "Asteroids" tutorial. Almost got the lasers to shoot properly. Have a bug to find tomorrow....the asteroids stop moving when I fire the laser. 
 
