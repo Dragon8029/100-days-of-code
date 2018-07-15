@@ -7,4 +7,11 @@
 ## A4D1: 
 *July 14, 2018*
 
-After some time off due to some medical issues, I am back. This will be attempt #4 at the 100 Days of Code Challenge. Today I worked on trying to debug the "Asteroids" game I had trouble with prior to stopping attempt #3. 
+After some time off due to some medical issues, I am back. This will be attempt #4 at the 100 Days of Code Challenge. Today I worked on trying to debug the "Asteroids" game I had trouble with prior to stopping attempt #3.
+
+---
+
+##A4D2:
+*July 15, 2018*
+
+Managed to debug "Asteroids" game, one letter was missing, so frustrating. Carried on and now have added lives, and levels to the game. 
