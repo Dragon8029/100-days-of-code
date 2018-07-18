@@ -15,3 +15,10 @@ After some time off due to some medical issues, I am back. This will be attempt 
 *July 15, 2018*
 
 Managed to debug "Asteroids" game, one letter was missing, so frustrating. Carried on and now have added lives, and levels to the game. 
+
+---
+
+##A4D3:
+*July 17, 2018*
+
+Finished up working on the "Asteroids in JavaScript" game tutorial. It was fun to build and really enjoyed utilizing JavaScript this way. It helps to understand some of the concepts I have been learning. 
