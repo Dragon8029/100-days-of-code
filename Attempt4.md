@@ -22,3 +22,10 @@ Managed to debug "Asteroids" game, one letter was missing, so frustrating. Carri
 *July 17, 2018*
 
 Finished up working on the "Asteroids in JavaScript" game tutorial. It was fun to build and really enjoyed utilizing JavaScript this way. It helps to understand some of the concepts I have been learning. 
+
+---
+
+##A4D4:
+*July 18, 2018* 
+
+Started on the "Product Landing Page" for the responsive web design projects from @FreeCodeCamp, managed to get a good start on my layout. 
