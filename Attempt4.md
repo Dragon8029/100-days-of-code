@@ -29,3 +29,10 @@ Finished up working on the "Asteroids in JavaScript" game tutorial. It was fun t
 *July 18, 2018* 
 
 Started on the "Product Landing Page" for the responsive web design projects from @FreeCodeCamp, managed to get a good start on my layout. 
+
+---
+
+##A4D5:
+*July 26, 2018*
+
+After some setbacks with trying to code everyday, I have come to terms that my life just will not allow me to code everyday. I'm ok with it, and will not stop working towards my goal of being a professional developer. Continued working on the @freeCodeCamp "Product Landing Page" project. 
