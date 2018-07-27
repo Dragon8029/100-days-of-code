@@ -36,3 +36,10 @@ Started on the "Product Landing Page" for the responsive web design projects fro
 *July 26, 2018*
 
 After some setbacks with trying to code everyday, I have come to terms that my life just will not allow me to code everyday. I'm ok with it, and will not stop working towards my goal of being a professional developer. Continued working on the @freeCodeCamp "Product Landing Page" project. 
+
+---
+
+##A4D6:
+*July 27, 2018*
+
+Decided to take a little break from the "Product Landing Page" and started working on a "Snake" game from a tutorial I found. Should be fun!
