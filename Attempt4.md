@@ -43,3 +43,10 @@ After some setbacks with trying to code everyday, I have come to terms that my l
 *July 27, 2018*
 
 Decided to take a little break from the "Product Landing Page" and started working on a "Snake" game from a tutorial I found. Should be fun!
+
+---
+
+##A4D7:
+*July 28, 2018*
+
+Finished up the "Snake" game, it was a fun little build, but I think I want to add a high score function to it. I will have to reveiw the "Asteroids" game in order remember how to build that function. I think it will improve the game a bit. 
