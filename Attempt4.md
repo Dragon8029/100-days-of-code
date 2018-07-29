@@ -50,3 +50,10 @@ Decided to take a little break from the "Product Landing Page" and started worki
 *July 28, 2018*
 
 Finished up the "Snake" game, it was a fun little build, but I think I want to add a high score function to it. I will have to reveiw the "Asteroids" game in order remember how to build that function. I think it will improve the game a bit. 
+
+---
+
+##A4D8:
+*July 29, 2018*
+
+Managed to get a high score function added into the "Snake" game. Continued working on "Product Landing Page" for @freeCodeCamp Responsive Web Design Projects. 
