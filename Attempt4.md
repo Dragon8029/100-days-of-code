@@ -57,3 +57,10 @@ Finished up the "Snake" game, it was a fun little build, but I think I want to a
 *July 29, 2018*
 
 Managed to get a high score function added into the "Snake" game. Continued working on "Product Landing Page" for @freeCodeCamp Responsive Web Design Projects. 
+
+---
+
+##A4D9:
+*Aug 11, 2018*
+
+After another break due to my paying job keeping me from coding. I continued working on "Product Landing Page" for @freeCodeCamp Responsive Web Design Projects. Finished up the basic HTML, and started adding some of the CSS. 
