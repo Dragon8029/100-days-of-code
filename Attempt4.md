@@ -64,3 +64,10 @@ Managed to get a high score function added into the "Snake" game. Continued work
 *Aug 11, 2018*
 
 After another break due to my paying job keeping me from coding. I continued working on "Product Landing Page" for @freeCodeCamp Responsive Web Design Projects. Finished up the basic HTML, and started adding some of the CSS. 
+
+---
+
+##A4D10:
+*Aug 12, 2018*
+
+Continued working on the product landing page project from @freeCodeCamp. It's taking longer than expected. I needed this to come back to and remember CSS. 
