@@ -71,3 +71,10 @@ After another break due to my paying job keeping me from coding. I continued wor
 *Aug 12, 2018*
 
 Continued working on the product landing page project from @freeCodeCamp. It's taking longer than expected. I needed this to come back to and remember CSS. 
+
+---
+
+##A4D11:
+*Aug 13, 2018*
+
+Still working on the product landing page project from @freeCodeCamp. Some CSS is holding me up. I will get it, just strugling to make it work the way I want it to.
