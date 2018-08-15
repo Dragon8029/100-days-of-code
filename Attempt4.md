@@ -85,3 +85,10 @@ Still working on the product landing page project from @freeCodeCamp. Some CSS i
 *Aug 14, 2018*
 
 Managed to make some progress on the product landing page projects. Was having a tough time getting my li's to arrange horizontally instead of vertically. Now I can start working on the rest of the page. 
+
+---
+
+##A4D13:
+*Aug 15, 2018*
+
+Continued working on the styling for the product landing page. Also worked on some git and github tutorials. Today is a travel day on my vacation, so not a whole bunch of coding getting done. 
