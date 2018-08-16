@@ -92,3 +92,9 @@ Managed to make some progress on the product landing page projects. Was having a
 *Aug 15, 2018*
 
 Continued working on the styling for the product landing page. Also worked on some git and github tutorials. Today is a travel day on my vacation, so not a whole bunch of coding getting done. 
+
+##A4D14:
+*Aug 16, 2018*
+
+Finished working on the git and github tutorials. Now I just need to make sure I use them more to get comfortable with them, especially the command line. Also worked on the product landing page projects a little. 
+
