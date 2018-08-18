@@ -104,3 +104,10 @@ Finished working on the git and github tutorials. Now I just need to make sure I
 *Aug 17, 2018*
 
 Continued working on the product landing page from @freeCodeCamp. Having some issues with CSS, it seems like it want's to work against me instead of with me. LOL! Oh well, it's all a part of the learning process. 
+
+---
+
+##A4D16:
+*Aug 18, 2018*
+
+Still working on the product landing page project from @freeCodeCamp. Got some of my css issues figured out and made some headway on the project. 
