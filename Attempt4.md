@@ -111,3 +111,10 @@ Continued working on the product landing page from @freeCodeCamp. Having some is
 *Aug 18, 2018*
 
 Still working on the product landing page project from @freeCodeCamp. Got some of my css issues figured out and made some headway on the project. 
+
+---
+
+##A4D17:
+*Aug 19, 2018*
+
+Getting closer to finishing up the landing page project from @freeCodeCamp. This has been a good refresher on CSS as I hadn't used it for some time as I was focused on trying to learn JavaScript. 
