@@ -118,3 +118,10 @@ Still working on the product landing page project from @freeCodeCamp. Got some o
 *Aug 19, 2018*
 
 Getting closer to finishing up the landing page project from @freeCodeCamp. This has been a good refresher on CSS as I hadn't used it for some time as I was focused on trying to learn JavaScript. 
+
+---
+
+##A4D18:
+*Aug 20, 2018*
+
+Due to being on a houseboat and not having internet, I decided to read "Learn Enough Command Line to be Dangerous" as I have it saved on my computer. 
