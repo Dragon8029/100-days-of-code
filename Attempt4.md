@@ -125,3 +125,8 @@ Getting closer to finishing up the landing page project from @freeCodeCamp. This
 *Aug 20, 2018*
 
 Due to being on a houseboat and not having internet, I decided to read "Learn Enough Command Line to be Dangerous" as I have it saved on my computer. 
+
+##A4D19:
+*Aug 21, 2018*
+
+Continued reading "Learn Enough Command Line to be Dangerous". Not much getting accomplished due to being on the houseboat. 
