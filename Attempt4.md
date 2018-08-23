@@ -130,3 +130,10 @@ Due to being on a houseboat and not having internet, I decided to read "Learn En
 *Aug 21, 2018*
 
 Continued reading "Learn Enough Command Line to be Dangerous". Not much getting accomplished due to being on the houseboat. 
+
+---
+
+##A4D20:
+*Aug 23, 2018*
+
+Continued reading "Learn Enough Command Line to be Dangerous", worked through the excersizes i could. Still not much getting done, no internet on the houseboat. 
