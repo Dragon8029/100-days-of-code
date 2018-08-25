@@ -134,6 +134,13 @@ Continued reading "Learn Enough Command Line to be Dangerous". Not much getting 
 ---
 
 ##A4D20:
+*Aug 25, 2018*
+
+Continued reading "Learn Enough Command Line to be Dangerous". Still not home from vacation, but managing to get as much coding time in as possible. 
+
+---
+
+##A4D20:
 *Aug 23, 2018*
 
 Continued reading "Learn Enough Command Line to be Dangerous", worked through the excersizes i could. Still not much getting done, no internet on the houseboat. 
