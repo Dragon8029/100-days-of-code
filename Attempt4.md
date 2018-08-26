@@ -140,6 +140,13 @@ Continued reading "Learn Enough Command Line to be Dangerous". Still not home fr
 
 ---
 
+##A4D21:
+*Aug 26, 2018*
+
+Finished up the "Product Landing Page" from @freeCodeCamp, now starting the "Build a Technical Documentation Page". 
+
+---
+
 ##A4D20:
 *Aug 23, 2018*
 
