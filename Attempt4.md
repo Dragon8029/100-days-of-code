@@ -165,3 +165,10 @@ Worked on some git tutorials. Just trying to compound my understanding of the to
 *Sept 6, 2018*
 
 Started "The Complete React Fullstack Course" from @udemy 
+
+---
+
+##A4D24:
+*Sept 7, 2018*
+
+Continued working through the React course from @CodingRevolution on @udemy 
