@@ -172,3 +172,10 @@ Started "The Complete React Fullstack Course" from @udemy
 *Sept 7, 2018*
 
 Continued working through the React course from @CodingRevolution on @udemy 
+
+---
+
+##A4D25:
+*Sept 8, 2018*
+
+Made my way through React events and React State sections from the "Complete React Fullstack Course"from @udemy. Continued working on the "Technical Documentation" project from @freeCodeCamp
