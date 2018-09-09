@@ -179,3 +179,8 @@ Continued working through the React course from @CodingRevolution on @udemy
 *Sept 8, 2018*
 
 Made my way through React events and React State sections from the "Complete React Fullstack Course"from @udemy. Continued working on the "Technical Documentation" project from @freeCodeCamp
+
+##A4D26:
+*Sept 9, 2018*
+
+Made my way through several lessons on Props, children, and Styles. Continued working on the "Technical Documentation" project from @freeCodeCamp
