@@ -184,3 +184,10 @@ Made my way through React events and React State sections from the "Complete Rea
 *Sept 9, 2018*
 
 Made my way through several lessons on Props, children, and Styles. Continued working on the "Technical Documentation" project from @freeCodeCamp
+
+---
+
+##A4D27:
+*Sept 10, 2018*
+
+Started working on a Professional Fullstack course from @stephenmf, so far it looks good. Completed more lessons on "Complete React Fullstack Course" from @Udemy
