@@ -191,3 +191,10 @@ Made my way through several lessons on Props, children, and Styles. Continued wo
 *Sept 10, 2018*
 
 Started working on a Professional Fullstack course from @stephenmf, so far it looks good. Completed more lessons on "Complete React Fullstack Course" from @Udemy
+
+---
+
+##A4D28:
+*Sept 10, 2018*
+
+Made it through Assignment 2 on Fullstack course from @stephenmf, also installed Router for React and learned how to create routes from React course on @Udemy. 
