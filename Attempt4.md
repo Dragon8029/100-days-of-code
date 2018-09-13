@@ -195,6 +195,13 @@ Started working on a Professional Fullstack course from @stephenmf, so far it lo
 ---
 
 ##A4D28:
-*Sept 10, 2018*
+*Sept 11, 2018*
 
 Made it through Assignment 2 on Fullstack course from @stephenmf, also installed Router for React and learned how to create routes from React course on @Udemy. 
+
+---
+
+##A4D29:
+*Sept 12, 2018*
+
+Carried on with the React course. Covered using links in routes, Params and URL's using Router's Switch, and Redirecting users. 
