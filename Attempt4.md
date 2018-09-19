@@ -205,3 +205,10 @@ Made it through Assignment 2 on Fullstack course from @stephenmf, also installed
 *Sept 12, 2018*
 
 Carried on with the React course. Covered using links in routes, Params and URL's using Router's Switch, and Redirecting users. 
+
+---
+
+##A4D30:
+*Sept 19, 2018*
+
+After a couple days of being stumped and having troubles connecting source control to CI/CD, I finally got it figured out. Now I can continue on with Assignment 3 on Fullstack course by @stephnmf 
