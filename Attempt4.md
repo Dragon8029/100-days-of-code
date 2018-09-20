@@ -212,3 +212,10 @@ Carried on with the React course. Covered using links in routes, Params and URL'
 *Sept 19, 2018*
 
 After a couple days of being stumped and having troubles connecting source control to CI/CD, I finally got it figured out. Now I can continue on with Assignment 3 on Fullstack course by @stephnmf 
+
+---
+
+##A4D31:
+*Sept 20, 2018*
+
+Finished up assignment 3, meaning that section 1 is now done of @stephnmf Fullstack course. Loving it so far, get to learn some different technologies. Decided to go back to the "Complete JavaScript Course" from @Udemy, before I continue with the React course. 
