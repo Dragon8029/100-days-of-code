@@ -219,3 +219,10 @@ After a couple days of being stumped and having troubles connecting source contr
 *Sept 20, 2018*
 
 Finished up assignment 3, meaning that section 1 is now done of @stephnmf Fullstack course. Loving it so far, get to learn some different technologies. Decided to go back to the "Complete JavaScript Course" from @Udemy, before I continue with the React course. 
+
+---
+
+##A4D32:
+*Sept 21, 2018*
+
+Continued working on "The Complete JavaScript Course" from @Udemy, had to go back and refresh my memory on some lessons, plus they added some new content. Also continued working on the "Build a Technical Documentation Page" project from @freeCodeCamp
