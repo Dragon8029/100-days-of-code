@@ -226,3 +226,10 @@ Finished up assignment 3, meaning that section 1 is now done of @stephnmf Fullst
 *Sept 21, 2018*
 
 Continued working on "The Complete JavaScript Course" from @Udemy, had to go back and refresh my memory on some lessons, plus they added some new content. Also continued working on the "Build a Technical Documentation Page" project from @freeCodeCamp
+
+---
+
+##A4D33:
+*Sept 22, 2018*
+
+Continued working through JavaScript course from @Udemy. Still refreshing my memory, but amazed at how much i actually remember. Finished up adding the HTML content for the "Technical Documentation" project from @freeCodeCamp, now i need to work on the CSS. 
