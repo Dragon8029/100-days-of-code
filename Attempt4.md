@@ -233,3 +233,10 @@ Continued working on "The Complete JavaScript Course" from @Udemy, had to go bac
 *Sept 22, 2018*
 
 Continued working through JavaScript course from @Udemy. Still refreshing my memory, but amazed at how much i actually remember. Finished up adding the HTML content for the "Technical Documentation" project from @freeCodeCamp, now i need to work on the CSS. 
+
+---
+
+##A4D34:
+*Sept 23, 2018*
+
+Carried on with CSS styling on the "Technical Documentation" project from @freeCodeCamp. 
