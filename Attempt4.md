@@ -240,3 +240,10 @@ Continued working through JavaScript course from @Udemy. Still refreshing my mem
 *Sept 23, 2018*
 
 Carried on with CSS styling on the "Technical Documentation" project from @freeCodeCamp. 
+
+---
+
+##A4D35: 
+*Sept 24, 2018*
+
+Completed the "Technical Documentation" project from @freeCodeCamp. That completed the Responsive Web Design section, I now have my certificate. Moved on to the javaScript Algorithms and Data Structures section. 
