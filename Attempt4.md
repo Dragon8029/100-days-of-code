@@ -247,3 +247,10 @@ Carried on with CSS styling on the "Technical Documentation" project from @freeC
 *Sept 24, 2018*
 
 Completed the "Technical Documentation" project from @freeCodeCamp. That completed the Responsive Web Design section, I now have my certificate. Moved on to the javaScript Algorithms and Data Structures section. 
+
+---
+
+##A4D36:
+*Sept 25, 2018*
+
+Starting working through the Basic JavaScript section from @freeCodeCamp.
