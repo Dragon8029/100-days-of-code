@@ -254,3 +254,10 @@ Completed the "Technical Documentation" project from @freeCodeCamp. That complet
 *Sept 25, 2018*
 
 Starting working through the Basic JavaScript section from @freeCodeCamp.
+
+---
+
+##A4D37: 
+*Oct 4, 2018*
+
+Missed logging a few days. Been reading the git documentation for a web developer course from @stephnmf, also working through the Basic Javascript section from @freeCodeCamp.
