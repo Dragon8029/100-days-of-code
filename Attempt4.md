@@ -261,3 +261,10 @@ Starting working through the Basic JavaScript section from @freeCodeCamp.
 *Oct 4, 2018*
 
 Missed logging a few days. Been reading the git documentation for a web developer course from @stephenmf, also working through the Basic Javascript section from @freeCodeCamp.
+
+---
+
+##A4D38:
+*Oct 5, 2018*
+
+Continued working through the Basic Javascript section from @freeCodeCamp. 
