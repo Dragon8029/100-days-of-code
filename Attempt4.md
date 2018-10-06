@@ -268,3 +268,8 @@ Missed logging a few days. Been reading the git documentation for a web develope
 *Oct 5, 2018*
 
 Continued working through the Basic Javascript section from @freeCodeCamp. 
+
+##A4D39:
+*Oct 6, 2018*
+
+Carried on working through the Basic Javascript section from @freeCodeCamp. Almost finished up this section. 
