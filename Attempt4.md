@@ -273,3 +273,10 @@ Continued working through the Basic Javascript section from @freeCodeCamp.
 *Oct 6, 2018*
 
 Carried on working through the Basic Javascript section from @freeCodeCamp. Almost finished up this section. 
+
+---
+
+##A4D40: 
+*Oct 7, 2018*
+
+Finished up the Basic JavaScript section from @freeCodeCamp. Now onto the ES6 challenges. 
