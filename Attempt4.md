@@ -280,3 +280,10 @@ Carried on working through the Basic Javascript section from @freeCodeCamp. Almo
 *Oct 7, 2018*
 
 Finished up the Basic JavaScript section from @freeCodeCamp. Now onto the ES6 challenges. 
+
+---
+
+##A4D41:
+*Oct 8, 2018*
+
+Continued making my way through the ES6 section from @freeCodeCamp. 
