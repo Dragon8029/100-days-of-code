@@ -294,3 +294,10 @@ Continued making my way through the ES6 section from @freeCodeCamp.
 *Oct 12, 2018*
 
 Signed up for Hacktoberfest 2018, found a couple repo's I felt comfortable contributing to and completed 2 pull requests. 
+
+---
+
+##A4D43: 
+*Oct 18, 2018*
+
+Missed a few days of tweets. Managed to complete 5 pull requests for @hacktoberfest. Was a little nervous contributing to projects for the first time, but starting to feel a little more confident now. Continued to contribute to another one today, I'm feeling accomplished.
