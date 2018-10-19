@@ -301,3 +301,10 @@ Signed up for Hacktoberfest 2018, found a couple repo's I felt comfortable contr
 *Oct 18, 2018*
 
 Missed a few days of tweets. Managed to complete 5 pull requests for @hacktoberfest. Was a little nervous contributing to projects for the first time, but starting to feel a little more confident now. Continued to contribute to another one today, I'm feeling accomplished.
+
+---
+
+##A4D44:
+*Oct 19, 2018* 
+
+Carried on with @freeCodeCamp ES6 section, I think that javaScript is starting to make sense. Also went back to "The Web Developer Bootcamp" by Colt Steele on @udemy for some review. 
