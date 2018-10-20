@@ -308,3 +308,10 @@ Missed a few days of tweets. Managed to complete 5 pull requests for @hacktoberf
 *Oct 19, 2018* 
 
 Carried on with @freeCodeCamp ES6 section, I think that javaScript is starting to make sense. Also went back to "The Web Developer Bootcamp" by Colt Steele on @udemy for some review. 
+
+---
+
+##A4D45:
+*Oct 20, 2018*
+
+Continued to make my way through the ES6 section from @freeCodeCamp. Everytime I think I start to understand javaScript, it proves me wrong... One day this will all make sense, just have to keep trying!
