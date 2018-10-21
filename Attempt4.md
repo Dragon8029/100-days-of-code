@@ -321,4 +321,4 @@ Continued to make my way through the ES6 section from @freeCodeCamp. Everytime I
 ## A4D46: 
 *Oct 21, 2018*
 
-Finished up the ES6 section from @freeCodeCamp. Next up, Regular Expressions. Also completed a @GitHub Learning Lab course on using Markdown. 
+Finished up the ES6 section from @freeCodeCamp. Next up, Regular Expressions. Also completed a @GitHub Learning Lab course on using Markdown. Also completed chapter 1 in *JavaScript & JQuery* book by *Jon Duckett*. 
