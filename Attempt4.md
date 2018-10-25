@@ -326,6 +326,13 @@ Finished up the ES6 section from @freeCodeCamp. Next up, Regular Expressions. Al
 ---
 
 ## A4D47:
-*Oct 22, 2018*
+*Oct 23, 2018*
 
 Found myself short on time the last couple days. Managed to complete a GitHub Learning Lab course on using GitHub. 
+
+---
+
+## A4D48:
+*Oct 25, 2018*
+
+Completed another GitHub Learning course for using GitHub pages. 
