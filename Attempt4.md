@@ -336,3 +336,12 @@ Found myself short on time the last couple days. Managed to complete a GitHub Le
 *Oct 25, 2018*
 
 Completed another GitHub Learning course for using GitHub pages. 
+
+---
+
+## A4D49:
+*Oct 26, 2018*
+
+Worked on how to handle merge conflicts from GitHub Learning. 
+
+---
