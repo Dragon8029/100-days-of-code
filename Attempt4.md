@@ -345,3 +345,8 @@ Completed another GitHub Learning course for using GitHub pages.
 Worked on how to handle merge conflicts from GitHub Learning. 
 
 ---
+
+## A4D50:
+*Nov 1, 2018*
+
+Decided to continue working through the GitHub Learning tutorials. Working on getting through the html one. 
