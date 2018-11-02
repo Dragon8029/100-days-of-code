@@ -349,6 +349,6 @@ Worked on how to handle merge conflicts from GitHub Learning.
 ## A4D50:
 *Nov 1, 2018*
 
-Decided to continue working through the GitHub Learning tutorials. Working on getting through the html one. Also continued working through Jon Duckett's JavaScript & JQuery book.  
+Decided to continue working through the GitHub Learning tutorials. Working on getting through the html one. Also continued working through Jon Duckett's JavaScript & JQuery book. Started bulding a simon game using javascript from a youtube tutorial
 
 ---
