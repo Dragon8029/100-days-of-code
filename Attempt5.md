@@ -11,3 +11,10 @@ I am committing publicly to the #100DaysOfCode Challenge. This will be attempt #
 Worked through Radio Buttons, Select Boxes, and a Character Counter from Jon Duckett's JavaScript & jQuery book. 
 
 ---
+
+## D2:
+*Feb 5, 2019*
+
+Worked my way through HTML5 Elements & Attributes through to Conditional Loading of a Polyfill in Jon Duckett's JavaScript & jQuery book. Also started working through the Validation section which is the last section in the book. 
+
+---
