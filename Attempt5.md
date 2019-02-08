@@ -12,9 +12,14 @@ Worked through Radio Buttons, Select Boxes, and a Character Counter from Jon Duc
 
 ---
 
-## D2:
+## D2/3:
 *Feb 5, 2019*
 
 Worked my way through HTML5 Elements & Attributes through to Conditional Loading of a Polyfill in Jon Duckett's JavaScript & jQuery book. Also started working through the Validation section which is the last section in the book. 
 
 ---
+
+## D4:
+*Feb 7, 2019* 
+
+Continued working through the Validation section of the Javascript & jQuery book. Added the basic script set up, some validation checks and some required functions. 
