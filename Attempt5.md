@@ -23,3 +23,12 @@ Worked my way through HTML5 Elements & Attributes through to Conditional Loading
 *Feb 7, 2019* 
 
 Continued working through the Validation section of the Javascript & jQuery book. Added the basic script set up, some validation checks and some required functions. 
+
+---
+
+## D5:
+*Feb 9, 2019*
+
+Missed coding yesterday. Carried on today by finishing up the last chapter in Jon Duckett's Javascript & jQuery book. Most of the code is working, but there are a couple bugs to sort out. I will work on fixing them tomorrow. 
+
+---
