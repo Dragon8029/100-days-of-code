@@ -32,3 +32,8 @@ Continued working through the Validation section of the Javascript & jQuery book
 Missed coding yesterday. Carried on today by finishing up the last chapter in Jon Duckett's Javascript & jQuery book. Most of the code is working, but there are a couple bugs to sort out. I will work on fixing them tomorrow. 
 
 ---
+
+## D6: 
+*Feb 10, 2019*
+
+Managed to fix most of the bugs in my code, but am currently stumped as to why the submit button is still working when I have added preventDefault() to my code. I even compared my code to the "follow along" code. Everything seems to match. 
