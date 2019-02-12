@@ -37,3 +37,13 @@ Missed coding yesterday. Carried on today by finishing up the last chapter in Jo
 *Feb 10, 2019*
 
 Managed to fix most of the bugs in my code, but am currently stumped as to why the submit button is still working when I have added preventDefault() to my code. I even compared my code to the "follow along" code. Everything seems to match. 
+
+---
+
+## D6: 
+*Feb 11, 2019*
+
+Still working on finding the bug in my code. I did managed to find and fix some typos, and I feel that I'm getting closer, but still no joy.
+Oh well, tomorrow is another day. 
+
+---
