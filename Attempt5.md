@@ -47,3 +47,10 @@ Still working on finding the bug in my code. I did managed to find and fix some 
 Oh well, tomorrow is another day. 
 
 ---
+
+## D7:
+*Feb 12, 2019*
+
+Yay! I finally got all my bugs worked out. Slowly learning how to use the Chrome debugger. Finished up the final bit of code from Jon Duckett's JavaScript & jQuery book. I am going to go back through the book to make sure I completly understand what the code is doing and the concepts. 
+
+---
