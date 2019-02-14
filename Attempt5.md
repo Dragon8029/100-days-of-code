@@ -54,3 +54,10 @@ Oh well, tomorrow is another day.
 Yay! I finally got all my bugs worked out. Slowly learning how to use the Chrome debugger. Finished up the final bit of code from Jon Duckett's JavaScript & jQuery book. I am going to go back through the book to make sure I completly understand what the code is doing and the concepts. 
 
 ---
+
+## D8: 
+*Feb 13, 2019*
+
+Worked through some reg ex on @FreeCodeCamp. 
+
+---
