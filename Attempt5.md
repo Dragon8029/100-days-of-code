@@ -61,3 +61,8 @@ Yay! I finally got all my bugs worked out. Slowly learning how to use the Chrome
 Worked through some reg ex on @FreeCodeCamp. 
 
 ---
+
+## D9:
+*Feb 16, 2019*
+
+After a couple days break due to family matters. I'm back at it, worked through some more Regex from @freeCodeCamp. Almost finished up that section. 
