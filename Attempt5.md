@@ -66,3 +66,13 @@ Worked through some reg ex on @FreeCodeCamp.
 *Feb 16, 2019*
 
 After a couple days break due to family matters. I'm back at it, worked through some more Regex from @freeCodeCamp. Almost finished up that section. 
+
+---
+
+## D10: 
+*Feb 17, 2019*
+
+Finished the Regex section, and have moved onto the debugging section from @freeCodeCamp. 
+
+---
+
