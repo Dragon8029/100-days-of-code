@@ -76,3 +76,9 @@ Finished the Regex section, and have moved onto the debugging section from @free
 
 ---
 
+## D11:
+*Feb 18, 2019*
+
+Completed the debugging section from @freeCodeCamp. Started working through the Basic Data Structure Challenges section. 
+
+---
