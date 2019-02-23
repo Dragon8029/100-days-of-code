@@ -82,3 +82,10 @@ Finished the Regex section, and have moved onto the debugging section from @free
 Completed the debugging section from @freeCodeCamp. Started working through the Basic Data Structure Challenges section. 
 
 ---
+
+## D12:
+*Feb 23, 2019*
+
+Continued working through the Basic Data Structure Challenges section from @freeCodeCamp.
+
+---
