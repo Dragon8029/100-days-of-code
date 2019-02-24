@@ -89,3 +89,10 @@ Completed the debugging section from @freeCodeCamp. Started working through the 
 Continued working through the Basic Data Structure Challenges section from @freeCodeCamp.
 
 ---
+
+## D13: 
+*Feb 24, 2019*
+
+Carried on working through the Basic Data Structure Challenges section from @freeCodeCamp.
+
+---
