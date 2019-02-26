@@ -96,3 +96,11 @@ Continued working through the Basic Data Structure Challenges section from @free
 Carried on working through the Basic Data Structure Challenges section from @freeCodeCamp.
 
 ---
+
+## D14: 
+*Feb 25, 2019*
+
+Almost finished the Basic Data Structure Challenges section from @freeCodeCamp. 
+
+---
+
