@@ -110,3 +110,10 @@ Almost finished the Basic Data Structure Challenges section from @freeCodeCamp.
 Finished up the Basic Data Structure Challenges section from @freeCodeCamp, and started the Basic Algorithm Scripting section. 
 
 ---
+
+## D16:
+*Feb 27, 2019*
+
+Made my way through a couple Basic Algorithm Scripting challenges from @freeCodeCamp. Will keep progressing tomorrow...
+
+---
