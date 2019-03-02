@@ -117,3 +117,10 @@ Finished up the Basic Data Structure Challenges section from @freeCodeCamp, and 
 Made my way through a couple Basic Algorithm Scripting challenges from @freeCodeCamp. Will keep progressing tomorrow...
 
 ---
+
+## D17: 
+*Mar 2, 2019*
+
+Continued working on Basic Algorithm Scripting challenges from @freeCodeCamp. Ran into a small problem where all the test pass, except for one with negative numbers.... Time to do some more reading. 
+
+---
