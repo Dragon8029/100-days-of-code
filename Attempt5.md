@@ -124,3 +124,10 @@ Made my way through a couple Basic Algorithm Scripting challenges from @freeCode
 Continued working on Basic Algorithm Scripting challenges from @freeCodeCamp. Ran into a small problem where all the test pass, except for one with negative numbers.... Time to do some more reading. 
 
 ---
+
+## D18: 
+*Mar 3, 2019*
+
+Made my way through a couple more Basic Algorithm Scripting challenges from @freeCodeCamp. 
+
+---
