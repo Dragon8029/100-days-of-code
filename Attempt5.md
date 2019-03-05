@@ -131,3 +131,10 @@ Continued working on Basic Algorithm Scripting challenges from @freeCodeCamp. Ra
 Made my way through a couple more Basic Algorithm Scripting challenges from @freeCodeCamp. 
 
 ---
+
+## D19: 
+*Mar 4, 2019* 
+
+Carried on through a couple more Basic Algorithm Scripting Challenges from @freeCodeCamp. Progress has been much slower than before, but the challenges are forcing me to think and research each problem. I like it!
+
+---
