@@ -138,3 +138,10 @@ Made my way through a couple more Basic Algorithm Scripting challenges from @fre
 Carried on through a couple more Basic Algorithm Scripting Challenges from @freeCodeCamp. Progress has been much slower than before, but the challenges are forcing me to think and research each problem. I like it!
 
 ---
+
+## D20:
+*Mar 6, 2019*
+
+Decided to take a break from @freeCodeCamp for the evening as I received my Arduino starter kit from @elegoo. So I spent some time playing with that. It still involves code, so I'm counting it as a day. 
+
+---
