@@ -145,3 +145,14 @@ Carried on through a couple more Basic Algorithm Scripting Challenges from @free
 Decided to take a break from @freeCodeCamp for the evening as I received my Arduino starter kit from @elegoo. So I spent some time playing with that. It still involves code, so I'm counting it as a day. 
 
 ---
+
+## D21: 
+*Mar 8, 2019*
+
+Worked on my Arduino kit some more. This is a lot of fun. Made it up to lesson 10 on using the ultrasonic sensor. 
+
+## D22:
+*Mar 19, 2019*
+
+Finished up the Basic Algorithm Scripting Challenges from @freeCodeCamp, will be starting the Object Oriented Programming Challenges tomorrow. Also played around with my new Arduino kit from @elegoo, loving it so far. 
+
