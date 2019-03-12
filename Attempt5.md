@@ -166,3 +166,10 @@ Finished up the Basic Algorithm Scripting Challenges from @freeCodeCamp, will be
 Started making my way through the Object Oriented Programming Challenges from @freeCodeCamp. 
 
 ---
+
+## D24: 
+*Mar 11, 2019* 
+
+Continued working through the Object Oriented Programming Challengs from @freeCodeCamp
+
+---
