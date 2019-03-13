@@ -173,3 +173,10 @@ Started making my way through the Object Oriented Programming Challenges from @f
 Continued working through the Object Oriented Programming Challengs from @freeCodeCamp
 
 ---
+
+## D25:
+*Mar 12, 2019*
+
+Made my way through several more Object Oriented Programming Challenges from @freeCodeCamp. Not getting as much time to code as I would like, but at least I can get some time in.
+
+---
