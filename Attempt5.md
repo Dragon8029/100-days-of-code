@@ -180,3 +180,10 @@ Continued working through the Object Oriented Programming Challengs from @freeCo
 Made my way through several more Object Oriented Programming Challenges from @freeCodeCamp. Not getting as much time to code as I would like, but at least I can get some time in.
 
 ---
+
+## D26:
+*Mar 14, 2019*
+
+Finished up the Object Oriented Progamming Challenges from @freeCodeCamp, now to move onto the Functional Programming Challenges. 
+
+---
