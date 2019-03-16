@@ -187,3 +187,8 @@ Made my way through several more Object Oriented Programming Challenges from @fr
 Finished up the Object Oriented Progamming Challenges from @freeCodeCamp, now to move onto the Functional Programming Challenges. 
 
 ---
+
+## D27:
+*Mar 16, 2019*
+
+Made my way through several Functional Programming Challenges from @freeCodeCamp. Things are getting tougher, but also starting to make a little more sense. 
