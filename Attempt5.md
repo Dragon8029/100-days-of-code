@@ -192,3 +192,12 @@ Finished up the Object Oriented Progamming Challenges from @freeCodeCamp, now to
 *Mar 16, 2019*
 
 Made my way through several Functional Programming Challenges from @freeCodeCamp. Things are getting tougher, but also starting to make a little more sense. 
+
+---
+
+## D28:
+*Mar 17, 2019*
+
+Worked through a couple more Functional Programming Challenges from @freeCodeCamp. 
+
+---
