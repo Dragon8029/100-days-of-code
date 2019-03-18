@@ -201,3 +201,10 @@ Made my way through several Functional Programming Challenges from @freeCodeCamp
 Worked through a couple more Functional Programming Challenges from @freeCodeCamp. 
 
 ---
+
+## D29:
+*Mar 18, 2019*
+
+Finished up the Functional Programming Challenges from @freeCodeCamp. Now starting on the Intermediate Algorithm Scripting Challenges. 
+
+---
