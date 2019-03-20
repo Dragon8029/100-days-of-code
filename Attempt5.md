@@ -215,3 +215,10 @@ Finished up the Functional Programming Challenges from @freeCodeCamp. Now starti
 Took a break from @freeCodeCamp, went back to a sign up page project I started a while ago. Researched how to submit the form data. I think I will go back to the Web Developer course by Colt Steele to refresh my memory of the server side handlling. 
 
 ---
+
+## D31:
+*Mar 20, 2019*
+
+Went back to Colt Steele's Web Development Bootcamp. Trying to refresh my memory on Express, Mongo and Node.js 
+
+---
