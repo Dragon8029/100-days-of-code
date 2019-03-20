@@ -208,3 +208,10 @@ Worked through a couple more Functional Programming Challenges from @freeCodeCam
 Finished up the Functional Programming Challenges from @freeCodeCamp. Now starting on the Intermediate Algorithm Scripting Challenges. 
 
 ---
+
+## D30:
+*Mar 19, 2019*
+
+Took a break from @freeCodeCamp, went back to a sign up page project I started a while ago. Researched how to submit the form data. I think I will go back to the Web Developer course by Colt Steele to refresh my memory of the server side handlling. 
+
+---
