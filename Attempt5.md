@@ -230,3 +230,10 @@ Forgot to tweet this yesterday.
 Still reveiwing Web Development Bootcamp. I forgot how in depth the course is. Hopefully soon, I will find what I need for my sign up page project soon. 
 
 ---
+
+## D33:
+*Mar 22, 2019*
+
+Finally getting to the stuff I need to make my project work. This reveiw is good for me. I have forgotten a lot of things from the first time I went through the course. 
+
+---
