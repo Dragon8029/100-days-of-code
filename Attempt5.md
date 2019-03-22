@@ -222,3 +222,11 @@ Took a break from @freeCodeCamp, went back to a sign up page project I started a
 Went back to Colt Steele's Web Development Bootcamp. Trying to refresh my memory on Express, Mongo and Node.js 
 
 ---
+
+## D32:
+*Mar 21, 2019*
+
+Forgot to tweet this yesterday. 
+Still reveiwing Web Development Bootcamp. I forgot how in depth the course is. Hopefully soon, I will find what I need for my sign up page project soon. 
+
+---
