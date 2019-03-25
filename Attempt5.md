@@ -237,3 +237,10 @@ Still reveiwing Web Development Bootcamp. I forgot how in depth the course is. H
 Finally getting to the stuff I need to make my project work. This reveiw is good for me. I have forgotten a lot of things from the first time I went through the course. 
 
 ---
+
+## D34:
+*Mar 24, 2019*
+
+Continued going through Web Development Bootcamp. Missed coding yesterday as I was travelling. Getting much closer to being able to add MongoDB to my app and be able to use it the way I want to. 
+
+---
