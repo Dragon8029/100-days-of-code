@@ -244,3 +244,10 @@ Finally getting to the stuff I need to make my project work. This reveiw is good
 Continued going through Web Development Bootcamp. Missed coding yesterday as I was travelling. Getting much closer to being able to add MongoDB to my app and be able to use it the way I want to. 
 
 ---
+
+## D35:
+*Mar 25, 2019*
+
+Still working on finding the info I need from the Web Development Bootcamp course. But I am sure that I am getting closer. 
+
+---
