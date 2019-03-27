@@ -251,3 +251,8 @@ Continued going through Web Development Bootcamp. Missed coding yesterday as I w
 Still working on finding the info I need from the Web Development Bootcamp course. But I am sure that I am getting closer. 
 
 ---
+
+## D36:
+*Mar 26, 2019*
+
+Continued working through Web Development Bootcamp. I think I will need to continue to the end to find the info I need. Oh well, it's all good review. 
