@@ -256,3 +256,12 @@ Still working on finding the info I need from the Web Development Bootcamp cours
 *Mar 26, 2019*
 
 Continued working through Web Development Bootcamp. I think I will need to continue to the end to find the info I need. Oh well, it's all good review. 
+
+---
+
+## D37:
+*Mar 27, 2019*
+
+Carried on working through Web Development Bootcamp. Working on adding comments to the project. 
+
+---
