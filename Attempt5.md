@@ -265,3 +265,10 @@ Continued working through Web Development Bootcamp. I think I will need to conti
 Carried on working through Web Development Bootcamp. Working on adding comments to the project. 
 
 ---
+
+## D38:
+*Mar 31, 2019*
+
+Missed a couple days, needed to give my brain a rest. And I had to go see the Iron Throne. Carried on today with Web Developer Bootcamp, I think I have found what I needed to make my project work. 
+
+---
