@@ -272,3 +272,10 @@ Carried on working through Web Development Bootcamp. Working on adding comments 
 Missed a couple days, needed to give my brain a rest. And I had to go see the Iron Throne. Carried on today with Web Developer Bootcamp, I think I have found what I needed to make my project work. 
 
 ---
+
+## D39:
+*Apr 1, 2019*
+
+Decided to dive into making my project app. Pretty much starting from scratch as my previous model wasn't going to work with my new approach. Managed to get all the packages installed and the basics added. It all connected properly when I ran node app.js. Feeling good about it so far. 
+
+---
