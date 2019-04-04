@@ -279,3 +279,17 @@ Missed a couple days, needed to give my brain a rest. And I had to go see the Ir
 Decided to dive into making my project app. Pretty much starting from scratch as my previous model wasn't going to work with my new approach. Managed to get all the packages installed and the basics added. It all connected properly when I ran node app.js. Feeling good about it so far. 
 
 ---
+
+## D40:
+*Apr 2, 2019*
+
+Continued working on my project app. Still just adding some bare bones content, and trying to get everything set up. The routes aren't working yet, but I'm sure in the next day or two I should be able to get it sorted out. 
+
+---
+
+## D41: 
+*Apr 3, 2019*
+
+Still working on my project app, it's going to take a while. Managed to get one of the routes working and added some additional properties to the working schema. Feels pretty good to figure things out without using a tutorial. 
+
+---
