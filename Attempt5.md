@@ -293,3 +293,15 @@ Continued working on my project app. Still just adding some bare bones content, 
 Still working on my project app, it's going to take a while. Managed to get one of the routes working and added some additional properties to the working schema. Feels pretty good to figure things out without using a tutorial. 
 
 ---
+
+## D42:
+*Apr 4, 2019*
+
+Had some troubles getting the info from my form to populate in the database correctly. Managed to get it sorted out, and continued to build my app. 
+
+---
+
+## D43:
+*Apr 6, 2019*
+
+Worked on my project for a while. Having trouble getting the css file to connect inside my header.ejs file. Frustrated right now, I will come back to it after a break. 
