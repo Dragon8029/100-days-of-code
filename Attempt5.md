@@ -305,3 +305,12 @@ Had some troubles getting the info from my form to populate in the database corr
 *Apr 6, 2019*
 
 Worked on my project for a while. Having trouble getting the css file to connect inside my header.ejs file. Frustrated right now, I will come back to it after a break. 
+
+---
+
+## D44: 
+*Apr 7, 2019*
+
+Came back to my project refreshed this morning. Read some more about how to connect ejs files and got my directory path sorted out. Was able to start styling the tables. 
+
+---
