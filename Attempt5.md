@@ -314,3 +314,10 @@ Worked on my project for a while. Having trouble getting the css file to connect
 Came back to my project refreshed this morning. Read some more about how to connect ejs files and got my directory path sorted out. Was able to start styling the tables. 
 
 ---
+
+## D45:
+*Apr 8, 2019*
+
+Continued working on my project. Attempting to style an HTML table, and thinking that I may need to layout my project a little differently to work the way I want it to. 
+
+---
