@@ -321,3 +321,8 @@ Came back to my project refreshed this morning. Read some more about how to conn
 Continued working on my project. Attempting to style an HTML table, and thinking that I may need to layout my project a little differently to work the way I want it to. 
 
 ---
+
+## D46:
+*Apr 9, 2019*
+
+Still working on my project. Added some more form data and connected it to the database and table. Still have a long way to go, but liking the way it's working so far. 
