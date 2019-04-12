@@ -333,3 +333,12 @@ Still working on my project. Added some more form data and connected it to the d
 *Apr 10, 2019*
 
 Changed the layout of the table, added a small if statement to handle a yes/no button. Didn't get as much done today due to family obligations. Still happy with what I did get done. 
+
+---
+
+## D48: 
+*Apr 11, 2019*
+
+A little frustrated with my code tonight. Nothing seems to be working. So instead of getting upset about it, I think I will stop, step away, and come back to it with a clear head tomorrow. 
+
+---
