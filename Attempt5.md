@@ -349,3 +349,10 @@ A little frustrated with my code tonight. Nothing seems to be working. So instea
 Came back to my project with a clear mind. Things worked out today, I managed to solve my routing issue. Also started to populate the new route with the info I want to see. 
 
 ---
+
+## D50:
+*Apr 13, 2019*
+
+Made some good progress today, managed to get all the info I need from the database to display correctly. Starting styling the details page. 
+
+---
