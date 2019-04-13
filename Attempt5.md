@@ -342,3 +342,10 @@ Changed the layout of the table, added a small if statement to handle a yes/no b
 A little frustrated with my code tonight. Nothing seems to be working. So instead of getting upset about it, I think I will stop, step away, and come back to it with a clear head tomorrow. 
 
 ---
+
+## D49:
+*Apr 12, 2019* 
+
+Came back to my project with a clear mind. Things worked out today, I managed to solve my routing issue. Also started to populate the new route with the info I want to see. 
+
+---
