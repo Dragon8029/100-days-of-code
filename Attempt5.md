@@ -356,3 +356,10 @@ Came back to my project with a clear mind. Things worked out today, I managed to
 Made some good progress today, managed to get all the info I need from the database to display correctly. Starting styling the details page. 
 
 ---
+
+## D51:
+*Apr 14, 2019*
+
+Made a little progress today, got the navbar working properly, but discovered that the bootstrap css was overiding my stylesheet. Need to fix that next, that will be tomorrows project. 
+
+---
