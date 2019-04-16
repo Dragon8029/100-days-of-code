@@ -363,3 +363,10 @@ Made some good progress today, managed to get all the info I need from the datab
 Made a little progress today, got the navbar working properly, but discovered that the bootstrap css was overiding my stylesheet. Need to fix that next, that will be tomorrows project. 
 
 ---
+
+## D52:
+*Apr 15, 2019*
+
+Got rid of the bootstrap styling for my project and built a css navbar. Will continue with more styling tomorrow, as i have run out of time for today. 
+
+---
