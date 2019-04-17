@@ -370,3 +370,10 @@ Made a little progress today, got the navbar working properly, but discovered th
 Got rid of the bootstrap styling for my project and built a css navbar. Will continue with more styling tomorrow, as i have run out of time for today. 
 
 ---
+
+## D53: 
+*Apr 16, 2019*
+
+Continued styling the landing page and the form. I can tell I need to brush up on my css skills. I'm out of practice and it's taking longer than I thought it would to get some basic styling done. Oh well, it's all part of learning. 
+
+---
