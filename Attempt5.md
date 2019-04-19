@@ -377,3 +377,10 @@ Got rid of the bootstrap styling for my project and built a css navbar. Will con
 Continued styling the landing page and the form. I can tell I need to brush up on my css skills. I'm out of practice and it's taking longer than I thought it would to get some basic styling done. Oh well, it's all part of learning. 
 
 ---
+
+## D54:
+*Apr 18, 2019*
+
+Missed coding yesterday due to family obligations. Got back to it today with some more CSS and styling the form for my project. I think it's come together nicely. I may come back to it to fix some small styling issues later, but for now I want to move on to styling my detail page.
+
+---
