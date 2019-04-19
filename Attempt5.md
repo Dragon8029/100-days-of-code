@@ -384,3 +384,10 @@ Continued styling the landing page and the form. I can tell I need to brush up o
 Missed coding yesterday due to family obligations. Got back to it today with some more CSS and styling the form for my project. I think it's come together nicely. I may come back to it to fix some small styling issues later, but for now I want to move on to styling my detail page.
 
 ---
+
+## D55: 
+*Apr 19, 2019*
+
+Finished up styling all my route pages for now. Added sort functionality to my table so users can click on the table headers to sort info. The next step will be adding search functionality to the table. 
+
+---
