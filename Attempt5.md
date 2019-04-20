@@ -391,3 +391,10 @@ Missed coding yesterday due to family obligations. Got back to it today with som
 Finished up styling all my route pages for now. Added sort functionality to my table so users can click on the table headers to sort info. The next step will be adding search functionality to the table. 
 
 ---
+
+## D56:
+*Apr 20, 2019*
+
+Played around with trying to get my table to behave how I want it to. Found DataTables, which helped with getting the sorting feature added. Still having troubles with getting the search feature to work. I will try again tomorrow. 
+
+---
