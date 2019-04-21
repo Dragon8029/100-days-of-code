@@ -398,3 +398,10 @@ Finished up styling all my route pages for now. Added sort functionality to my t
 Played around with trying to get my table to behave how I want it to. Found DataTables, which helped with getting the sorting feature added. Still having troubles with getting the search feature to work. I will try again tomorrow. 
 
 ---
+
+## D57:
+*Apr 21, 2019*
+
+Managed to get the table to work how I want it to. It now has search function, and the sort works on all columns. Started to add some form validation, and researching how to add user authentication. It's been a productive day. :)
+
+---
