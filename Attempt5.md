@@ -405,3 +405,10 @@ Played around with trying to get my table to behave how I want it to. Found Data
 Managed to get the table to work how I want it to. It now has search function, and the sort works on all columns. Started to add some form validation, and researching how to add user authentication. It's been a productive day. :)
 
 ---
+
+## D58:
+*Apr 22, 2019*
+
+Went back to Web Developer Bootcamp by Colt Steele on @Udemy so that I could refresh my memory on User Authentication. It's going to take a day or two of review before I can attempt to add it to my app, but it's a start. 
+
+---
