@@ -419,3 +419,8 @@ Went back to Web Developer Bootcamp by Colt Steele on @Udemy so that I could ref
 Continued reveiwing the User Authentication section from Web Developer Bootcamp. Didn't get anything added to my project, but I think I now know what I need to get User Auth working on it. 
 
 ---
+
+## D60:
+*Apr 24, 2019* 
+
+Finished watching the Authentication section tutorials. Attempted to get them working on my project. Things were going well until moment.js threw an undefined error. This is a good time to stop and come back to it with a clear head. 
