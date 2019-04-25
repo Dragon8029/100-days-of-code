@@ -424,3 +424,10 @@ Continued reveiwing the User Authentication section from Web Developer Bootcamp.
 *Apr 24, 2019* 
 
 Finished watching the Authentication section tutorials. Attempted to get them working on my project. Things were going well until moment.js threw an undefined error. This is a good time to stop and come back to it with a clear head. 
+
+---
+
+## D61:
+*Apr 25, 2019*
+
+Managed to fix the undefined error that moment.js was throwing. All my authorization routes seem to be working now as well. Will need to look into how to assign a user a temp password, and set up a password reset option next. 
