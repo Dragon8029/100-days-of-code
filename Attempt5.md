@@ -431,3 +431,12 @@ Finished watching the Authentication section tutorials. Attempted to get them wo
 *Apr 25, 2019*
 
 Managed to fix the undefined error that moment.js was throwing. All my authorization routes seem to be working now as well. Will need to look into how to assign a user a temp password, and set up a password reset option next. 
+
+---
+
+## D62:
+*Apr 26, 2019*
+
+Fixed up some small bugs on my app. Then started researching how to add password reset and a password reset after first login. 
+
+---
