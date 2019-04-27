@@ -440,3 +440,10 @@ Managed to fix the undefined error that moment.js was throwing. All my authoriza
 Fixed up some small bugs on my app. Then started researching how to add password reset and a password reset after first login. 
 
 ---
+
+## D63:
+*Apr 27, 2019*
+
+Worked on a password tutorial so I can eventually add a password reset after first login, and a forgot password reset button to my app. May take a couple days to get through the tutorial, but it's worth it.
+
+---
