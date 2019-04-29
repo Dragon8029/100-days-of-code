@@ -447,3 +447,8 @@ Fixed up some small bugs on my app. Then started researching how to add password
 Worked on a password tutorial so I can eventually add a password reset after first login, and a forgot password reset button to my app. May take a couple days to get through the tutorial, but it's worth it.
 
 ---
+
+## D64: 
+*Apr 28, 2019*
+
+Continued trying to get a password reset route set up for my app. No success yet, but I've only looked at one tutorial on it so far. Will keep trying. 
