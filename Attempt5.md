@@ -452,3 +452,12 @@ Worked on a password tutorial so I can eventually add a password reset after fir
 *Apr 28, 2019*
 
 Continued trying to get a password reset route set up for my app. No success yet, but I've only looked at one tutorial on it so far. Will keep trying. 
+
+---
+
+## D65:
+*May 3, 2019*
+
+After a couple days off due to family obligations, I got back to trying to sort out my password reset and temporary login logic. Still working on it, but I feel like I am getting closer. 
+
+---
