@@ -461,3 +461,8 @@ Continued trying to get a password reset route set up for my app. No success yet
 After a couple days off due to family obligations, I got back to trying to sort out my password reset and temporary login logic. Still working on it, but I feel like I am getting closer. 
 
 ---
+
+## D66: 
+*May 4, 2019*
+
+Completed Day 4 of @lighthouse_labs 21-day coding challenge. Continued researching password reset and attempt to get working on my app. Still a ways to go before it will work. 
