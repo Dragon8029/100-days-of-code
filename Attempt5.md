@@ -466,3 +466,12 @@ After a couple days off due to family obligations, I got back to trying to sort 
 *May 4, 2019*
 
 Completed Day 4 of @lighthouse_labs 21-day coding challenge. Continued researching password reset and attempt to get working on my app. Still a ways to go before it will work. 
+
+---
+
+## D67: 
+*May 5, 2019*
+
+Completed Day 5 of @lighthouse_labs 21-day coding challenge. Also, continued to research how to email and reset a password using a temporary login. 
+
+---
