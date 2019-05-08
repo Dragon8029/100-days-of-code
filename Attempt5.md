@@ -475,3 +475,8 @@ Completed Day 4 of @lighthouse_labs 21-day coding challenge. Continued researchi
 Completed Day 5 of @lighthouse_labs 21-day coding challenge. Also, continued to research how to email and reset a password using a temporary login. 
 
 ---
+
+## D68:
+*May 7, 2019* 
+
+Forgot to tweet yesterday. Yesterday and today I spent some time learning how to set up a Heroku enviornment. Still need to study the docs a bit more to become familiar with it. But it should work for my needs. 
