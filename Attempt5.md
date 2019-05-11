@@ -480,3 +480,12 @@ Completed Day 5 of @lighthouse_labs 21-day coding challenge. Also, continued to 
 *May 7, 2019* 
 
 Forgot to tweet yesterday. Yesterday and today I spent some time learning how to set up a Heroku enviornment. Still need to study the docs a bit more to become familiar with it. But it should work for my needs. 
+
+---
+
+## D69:
+*May 11, 2019*
+
+Didn't count the last few days as meeting the challenge, I did do a little coding. Just not enough to count, in my mind. Back at it today, worked on setting up Heroku and a MongoDb with mLab. Still a bit more to figure out, but getting closer. 
+
+---
