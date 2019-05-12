@@ -489,3 +489,10 @@ Forgot to tweet yesterday. Yesterday and today I spent some time learning how to
 Didn't count the last few days as meeting the challenge, I did do a little coding. Just not enough to count, in my mind. Back at it today, worked on setting up Heroku and a MongoDb with mLab. Still a bit more to figure out, but getting closer. 
 
 ---
+
+## D70:
+*May 12, 2019*
+
+Got my app working with Heroku, and started to get sendgrid working with it. Now I need to tweak my app to get the email functionality to work correctly. It's coming together, slowly, but surely! 
+
+---
