@@ -496,3 +496,19 @@ Didn't count the last few days as meeting the challenge, I did do a little codin
 Got my app working with Heroku, and started to get sendgrid working with it. Now I need to tweak my app to get the email functionality to work correctly. It's coming together, slowly, but surely! 
 
 ---
+
+## D71:
+*May 13, 2019*
+
+Didn't get as much time in today as I would have liked, but did manage to fix some bugs in my code. Now it seems to be working the way it was before I added it to heroku. Calling that a Win for today!
+
+---
+
+## D72:
+*May 15, 2019*
+
+Missed yesterday, and didn't get much accomplished today. However I did manage to make some small css changes to make one of the layouts that kept overlapping content when the screen size went to small mobile. 
+
+---
+
+---
