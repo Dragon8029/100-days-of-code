@@ -511,4 +511,11 @@ Missed yesterday, and didn't get much accomplished today. However I did manage t
 
 ---
 
+## D73:
+*May 16, 2019*
+
+Worked on some css styling. Wasn't able to solve some of the mystery as to why things aren't lining up, but will research it some more, and check my code to see where I went wrong. 
+
+---
+
 ---
