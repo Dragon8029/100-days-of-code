@@ -518,9 +518,16 @@ Worked on some css styling. Wasn't able to solve some of the mystery as to why t
 
 ---
 
-##D74:
+## D74:
 *May 18, 2019*
 
 Worked on some more css styling, added some more content, and fixed some bugs I came accross. Happy with what I accomplished today. 
+
+---
+
+## D75:
+*May 20, 2019*
+
+Continued to work on some styling for my project. Still have a long ways to go, but it's coming together nicely. 
 
 ---
