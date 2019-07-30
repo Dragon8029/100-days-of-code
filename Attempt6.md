@@ -13,3 +13,9 @@ Needed to get back to the basics, so I decided I will start with Jon Duckett's H
 
 ---
 
+##D2: 
+*July 30, 2019*
+
+Made my way through the rest of chapter 2 and completed chapter 3 of Jon Duckett's HTML & CSS book. It covered semantic markup and lists. I learned some new things that I haven't come accross before, like abbreviations, citations and definitions tags. Also the definitions list is a new one I found today. 
+
+---
