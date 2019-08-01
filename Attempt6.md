@@ -26,3 +26,10 @@ Made my way through the rest of chapter 2 and completed chapter 3 of Jon Duckett
 Completed chapters 4 and 5 of Jon Duckett's HTML & CSS book. Covered links and images today. 
 
 ---
+
+##D4: 
+*Aug 1, 2019*
+
+Completed chapter 6 and 7 of Jon Duckett's HTML & CSS book. Learned about tables and forms. These will come in handy in the future. 
+
+---
