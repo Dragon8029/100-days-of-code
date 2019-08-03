@@ -41,3 +41,10 @@ Made my way through chapters 8 and 9 of the HTML & CSS book. Learned about iFram
 
 ---
 
+##D6/100:
+*Aug 3, 2019*
+
+Completed chapters 10 and 11 of Jon Duckett's HTML & CSS book. Learning about css selecters and how it cascades. Also learned about colors. 
+
+---
+
