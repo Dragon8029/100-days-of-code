@@ -48,3 +48,9 @@ Completed chapters 10 and 11 of Jon Duckett's HTML & CSS book. Learning about cs
 
 ---
 
+##D7/100:
+*Aug 4, 2019*
+
+Worked my way through chapters 12, 13 and 14 of Jon Duckett's HTML & CSS book. Covered learning how to style text, boxes, lists, tables and forms. It was a productive morning. 
+
+---
