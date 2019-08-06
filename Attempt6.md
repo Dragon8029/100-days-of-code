@@ -61,3 +61,10 @@ Worked my way through chapters 12, 13 and 14 of Jon Duckett's HTML & CSS book. C
 Made my way through chapter 15 today. It was a big chapter. All about layouts. 
 
 ---
+
+##D9/100:
+*Aug 6, 2019*
+
+Went through chapters 16, 17, 18 and 19 to complete Jon Duckett's HTML & CSS book. There was a lot of information, now I need to start building things to retain all of it. 
+
+---
