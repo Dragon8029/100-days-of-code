@@ -68,3 +68,10 @@ Made my way through chapter 15 today. It was a big chapter. All about layouts.
 Went through chapters 16, 17, 18 and 19 to complete Jon Duckett's HTML & CSS book. There was a lot of information, now I need to start building things to retain all of it. 
 
 ---
+
+##D10/100: 
+*Aug 7, 2019*
+
+Started Jon Duckett's Javascript & Jquery book by completing chapters 1 and 2. 
+
+---
