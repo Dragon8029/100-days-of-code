@@ -75,3 +75,10 @@ Went through chapters 16, 17, 18 and 19 to complete Jon Duckett's HTML & CSS boo
 Started Jon Duckett's Javascript & Jquery book by completing chapters 1 and 2. 
 
 ---
+
+##D11/100:
+*Aug 8, 2019*
+
+Made my way through chapter 3 of Jon Duckett's Javascript & jQuery book. Covered lots of information on Functions, Methods and Objects. 
+
+---
