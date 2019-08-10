@@ -82,3 +82,10 @@ Started Jon Duckett's Javascript & Jquery book by completing chapters 1 and 2.
 Made my way through chapter 3 of Jon Duckett's Javascript & jQuery book. Covered lots of information on Functions, Methods and Objects. 
 
 ---
+
+##D12/100:
+*Aug 10, 2019*
+
+Worked through chapter 4 and part way through chapter 5 of the Javascript & jQuery book. Covered loops and DOM manipulation. 
+
+---
