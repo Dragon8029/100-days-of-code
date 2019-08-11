@@ -89,3 +89,10 @@ Made my way through chapter 3 of Jon Duckett's Javascript & jQuery book. Covered
 Worked through chapter 4 and part way through chapter 5 of the Javascript & jQuery book. Covered loops and DOM manipulation. 
 
 ---
+
+##D13/100:
+*Aug 11, 2019*
+
+Finished chapter 5 on DOM and partially made my way through chapter 6 on events. 
+
+---
