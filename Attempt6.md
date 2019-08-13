@@ -103,3 +103,10 @@ Finished chapter 5 on DOM and partially made my way through chapter 6 on events.
 Completed chapter 6 on events. Still trying to figure out what bug is causing an error in the example code at the end of the chapter. I will get it figured out before I move on. 
 
 ---
+
+##D15/100:
+*Aug 13, 2019*
+
+Started making my way through chapter 7 on jQuery. Lots of information, this will take me a couple days to get through it. 
+
+---
