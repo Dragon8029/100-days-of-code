@@ -110,3 +110,10 @@ Completed chapter 6 on events. Still trying to figure out what bug is causing an
 Started making my way through chapter 7 on jQuery. Lots of information, this will take me a couple days to get through it. 
 
 ---
+
+##D16/100:
+*Aug 14, 2019*
+
+Finished up chapter 7 on jQuery. It was a big chapter with lots of examples. Next up will be Ajax and JSON. 
+
+---
