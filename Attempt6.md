@@ -117,3 +117,10 @@ Started making my way through chapter 7 on jQuery. Lots of information, this wil
 Finished up chapter 7 on jQuery. It was a big chapter with lots of examples. Next up will be Ajax and JSON. 
 
 ---
+
+##D17/100:
+*Aug 15, 2019*
+
+Worked through chapter 8 and part way through chapter 9 after completing a Caesar Cipher tutorial that came in my inbox. It's been a productive morning. 
+
+---
