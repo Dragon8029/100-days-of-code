@@ -124,3 +124,11 @@ Finished up chapter 7 on jQuery. It was a big chapter with lots of examples. Nex
 Worked through chapter 8 and part way through chapter 9 after completing a Caesar Cipher tutorial that came in my inbox. It's been a productive morning. 
 
 ---
+
+##D18/100:
+*Aug 16, 2019*
+
+Finished making my way through chapter 9 and chapter 10 of Jon Duckett's Javascript & jQuery book. 
+
+---
+
