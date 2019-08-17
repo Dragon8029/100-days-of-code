@@ -132,3 +132,10 @@ Finished making my way through chapter 9 and chapter 10 of Jon Duckett's Javascr
 
 ---
 
+##D19/100:
+*Aug 17, 2019*
+
+Completed chapter 11 of of Jon Duckett's Javascript & jQuery book. 
+
+---
+
