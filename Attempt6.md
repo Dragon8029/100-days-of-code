@@ -139,3 +139,10 @@ Completed chapter 11 of of Jon Duckett's Javascript & jQuery book.
 
 ---
 
+##D20/100:
+*Aug 18, 2019*
+
+Completed chapter 12 and started on chapter 13 of Jon Duckett's javascript & jQuery book. Covered sort and filter methods. I can see myself using some of these in future projects. 
+
+---
+
