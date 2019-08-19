@@ -146,3 +146,10 @@ Completed chapter 12 and started on chapter 13 of Jon Duckett's javascript & jQu
 
 ---
 
+##D21/100:
+*Aug 19, 2019*
+
+Completed chapter 13 of Jon Duckett's javascript & jQuery book. This is the end of the book, now I iwll need to build some things to utilize what I learned from the book.
+
+---
+
