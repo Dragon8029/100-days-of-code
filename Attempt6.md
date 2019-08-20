@@ -153,3 +153,10 @@ Completed chapter 13 of Jon Duckett's javascript & jQuery book. This is the end 
 
 ---
 
+##D22/100: 
+*Aug20, 2019*
+
+Started building a todo list app today. Got the basics figured out, but found some bugs that have me scratching my head right now. I will come back to it later once I give my brain a little break. 
+
+---
+
