@@ -160,3 +160,10 @@ Started building a todo list app today. Got the basics figured out, but found so
 
 ---
 
+##D23/100:
+*Aug 21, 2019*
+
+Found and fixed the issue with my todo list app. Decided to do some more studying on javascript by reading Javascript Grammar by @javascriptteacher. 
+
+---
+
