@@ -167,3 +167,10 @@ Found and fixed the issue with my todo list app. Decided to do some more studyin
 
 ---
 
+##D24/100:
+*Aug 22, 2019*
+
+Not as productive today as I have been, but still managed to do one of Wes Bos's #javascript30 challenge. 
+
+---
+
