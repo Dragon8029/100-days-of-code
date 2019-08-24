@@ -174,3 +174,10 @@ Not as productive today as I have been, but still managed to do one of Wes Bos's
 
 ---
 
+##D25/100:
+*Aug 24, 2019*
+
+I didn't count yesterday as I only had about 20 minutes to code. Today I continued with the #javascript30 challenge. And worked on a small one page site for a personal project. 
+
+---
+
