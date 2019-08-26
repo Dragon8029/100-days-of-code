@@ -188,3 +188,10 @@ Did another #javascript30 challenge. Then continued working on the personal proj
 
 ---
 
+##D27/100:
+*Aug 26, 2019*
+
+Complete day 5 of the #javascript30 challenge. Also continued building a single page website for a small practice project. Definitely can use the practice with CSS. 
+
+---
+
