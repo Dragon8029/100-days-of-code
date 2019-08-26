@@ -181,3 +181,10 @@ I didn't count yesterday as I only had about 20 minutes to code. Today I continu
 
 ---
 
+##D26/100:
+*Aug 25, 2019*
+
+Did another #javascript30 challenge. Then continued working on the personal project.
+
+---
+
