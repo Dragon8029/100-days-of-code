@@ -195,3 +195,9 @@ Complete day 5 of the #javascript30 challenge. Also continued building a single 
 
 ---
 
+##D28/100:
+*Aug 27, 2019*
+
+Not much accomplished today. I did manage to get day 6 of the #javascript30 challenge done. 
+
+---
