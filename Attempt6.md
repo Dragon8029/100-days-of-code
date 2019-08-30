@@ -202,9 +202,16 @@ Not much accomplished today. I did manage to get day 6 of the #javascript30 chal
 
 ---
 
-##D29/100;
+##D29/100:
 *Aug 28, 2019*
 
 Completed day 7 and 8 of the #javascript30 challeng. Continued working on a small website. 
+
+---
+
+##D30/100:
+*Aug 30, 2019*
+
+Went through day 9 and 10 of the #javascript30 challenge. Continued working on styling a single page project. Forgot how hard css can be...
 
 ---
