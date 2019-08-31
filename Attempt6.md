@@ -215,3 +215,11 @@ Completed day 7 and 8 of the #javascript30 challeng. Continued working on a smal
 Went through day 9 and 10 of the #javascript30 challenge. Continued working on styling a single page project. Forgot how hard css can be...
 
 ---
+
+##D31/100:
+*Aug 31, 2019* 
+
+Finished up day 11 of the #javascript30 challenge. Also continued working on the single page project. Having trouble with getting the image slider working. Oh well, that will be tomorrows challenge. 
+
+---
+
