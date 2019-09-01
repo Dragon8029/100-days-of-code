@@ -223,3 +223,9 @@ Finished up day 11 of the #javascript30 challenge. Also continued working on the
 
 ---
 
+##D32/100:
+*Sep 1, 2019*
+
+Completed days 12 and 13 of the #javascript30 challenge. Finally got an image slider working on my project page. Happy with today's progress. 
+
+---
