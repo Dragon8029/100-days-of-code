@@ -236,3 +236,10 @@ Completed days 12 and 13 of the #javascript30 challenge. Finally got an image sl
 Completed day 14 of the #javascript30 challenge. Carried on styling my project site. It's starting to come together. 
 
 ---
+
+##D34/100:
+*Sep 3, 2019*
+
+Finished up day 15 of the #javascript30 challenge. Ran out of time for anything else. 
+
+---
