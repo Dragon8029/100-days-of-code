@@ -243,3 +243,10 @@ Completed day 14 of the #javascript30 challenge. Carried on styling my project s
 Finished up day 15 of the #javascript30 challenge. Ran out of time for anything else. 
 
 ---
+
+##D35/100:
+*Sep 4, 2019*
+
+Completed day 16 and 17 of the #javascript30 challenge. 
+
+---
