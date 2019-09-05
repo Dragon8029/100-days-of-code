@@ -247,6 +247,13 @@ Finished up day 15 of the #javascript30 challenge. Ran out of time for anything 
 ##D35/100:
 *Sep 4, 2019*
 
-Completed day 16 and 17 of the #javascript30 challenge. 
+Completed day 16 and 17 of the #javascript30 challenge. Started reading YDKJS: Up and Going. 
+
+---
+
+##D36/100: 
+*Sep 5, 2019*
+
+Completed day 18 and 19 of the #javascript30 challenge. 
 
 ---
