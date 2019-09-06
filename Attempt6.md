@@ -257,3 +257,10 @@ Completed day 16 and 17 of the #javascript30 challenge. Started reading YDKJS: U
 Completed day 18 and 19 of the #javascript30 challenge. 
 
 ---
+
+##D37/100:
+*Sep 6, 2019*
+
+Completed day 20 and 21 of the #javascript30 challenge. 
+
+---
