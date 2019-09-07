@@ -264,3 +264,10 @@ Completed day 18 and 19 of the #javascript30 challenge.
 Completed day 20 and 21 of the #javascript30 challenge. 
 
 ---
+
+##D38/100:
+*Sep 7, 2019*
+
+Finished up day 22 and 23 of the #javascript30 challenge. Worked on a freeCodeCamp challenge, have to do some more studying to get this one. 
+
+---
