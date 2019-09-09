@@ -278,3 +278,8 @@ Finished up day 22 and 23 of the #javascript30 challenge. Worked on a freeCodeCa
 Completed days 24 and 25 of the #javascript30 challenge. Did a couple more Intermediate Algorithm Scripting challenges from @freeCodeCamp. Also read up on the developer thought process. 
 
 ---
+
+##D40/100:
+*Sep 9, 2019*
+
+Completed day 26 of the #javascript30 challenge. 
