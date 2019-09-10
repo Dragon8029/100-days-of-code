@@ -282,4 +282,6 @@ Completed days 24 and 25 of the #javascript30 challenge. Did a couple more Inter
 ##D40/100:
 *Sep 9, 2019*
 
-Completed day 26 of the #javascript30 challenge. 
+Completed day 26 of the #javascript30 challenge. Finished reading an article on the developer thought process. 
+
+---
