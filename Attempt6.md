@@ -297,3 +297,12 @@ Finished day 27 and 28 of the #javascript30 challenge.
 *Sep 11, 2019*
 
 Finished day 29 of the #javascript30 challenge. 
+
+---
+
+##D43/100:
+*Sep 12, 2019*
+
+Completed day 30 of the #javascript30 challenge.
+
+---
