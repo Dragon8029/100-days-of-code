@@ -310,4 +310,11 @@ Completed day 30 of the #javascript30 challenge.
 ##D44/100:
 *Sep 13, 2019*
 
-Started working through @wesbos Mastering Markdown tutorials. 
+Started working through @wesbos Mastering Markdown tutorials.
+
+---
+
+##D45/100:
+*Sep 14, 2019*
+
+Finished working through @wesbos Mastering Markdown tutorial. 
