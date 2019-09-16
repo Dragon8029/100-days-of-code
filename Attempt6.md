@@ -318,3 +318,12 @@ Started working through @wesbos Mastering Markdown tutorials.
 *Sep 14, 2019*
 
 Finished working through @wesbos Mastering Markdown tutorial. 
+
+---
+
+##D46/100:
+*Sep 15, 2019*
+
+Started working on a weekly project (from an email subscription that I can't don't remember signing up for...LOL). I hadn't started it until today due to also starting a new job that pays (not in tech) after having the past 3 months off. 
+
+---
