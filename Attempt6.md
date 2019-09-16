@@ -327,3 +327,10 @@ Finished working through @wesbos Mastering Markdown tutorial.
 Started working on a weekly project (from an email subscription that I can't don't remember signing up for...LOL). I hadn't started it until today due to also starting a new job that pays (not in tech) after having the past 3 months off. 
 
 ---
+
+##D47/100:
+*Sep 16, 2019*
+
+Received the second weekly project in my inbox. Didn't get any coding done, but started to plan out how I want to tackle this one. 
+
+---
