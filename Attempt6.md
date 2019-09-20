@@ -334,3 +334,10 @@ Started working on a weekly project (from an email subscription that I can't don
 Received the second weekly project in my inbox. Didn't get any coding done, but started to plan out how I want to tackle this one. 
 
 ---
+
+##D48/100:
+*Sep 20, 2019*
+
+I didn't count the last couple days due to not really having my head into coding. I took 1 day away from my computer completly. Feeling much better today. Continued working on the week 2 project. Struggling a bit with how I want things to work, but it's a good way to challenge myself. 
+
+---
