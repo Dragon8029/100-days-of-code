@@ -352,6 +352,13 @@ Worked on the week 2 project for a bit this morning. My head is still not 100% i
 ##D50/100:
 *Sep 22, 2019*
 
-Spend some time on Hacker Rank, it seems like a good place to practice the javascript that I've been learning. 
+Spent some time on Hacker Rank, it seems like a good place to practice the javascript that I've been learning. 
+
+---
+
+##D51/100:
+*Sep 23, 2019* 
+
+Spent some more time doing Hacker Rank practice challenges. 
 
 ---
