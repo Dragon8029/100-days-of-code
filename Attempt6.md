@@ -362,3 +362,10 @@ Spent some time on Hacker Rank, it seems like a good place to practice the javas
 Spent some more time doing Hacker Rank practice challenges. 
 
 ---
+
+##D52/100:
+*Sep 27, 2019*
+
+Started building a [Tron lightcycle](https://medium.com/javascript-in-plain-english/building-a-classic-arcade-game-with-javascript-and-html5-canvas-18494e4201ba) arcade game using Javascript and HTML5 canvas. 
+
+---
