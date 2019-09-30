@@ -376,3 +376,17 @@ Started building a [Tron lightcycle](https://medium.com/javascript-in-plain-engl
 Finished building the [Tron lightcycle](https://medium.com/javascript-in-plain-english/building-a-classic-arcade-game-with-javascript-and-html5-canvas-18494e4201ba) arcade game. Did some more reading on javascript. 
 
 ---
+
+## D54/100:
+*Sep 29, 2019*
+
+Started a fullstack React course from Udemy. Didn't get to the coding part, as getting everything set up and installed took a while. 
+
+---
+
+## D55/100:
+*Sep 30, 2019* 
+
+Continued on with the React course. It's slow going right now, but I'm sure it will pick up soon. 
+
+---
