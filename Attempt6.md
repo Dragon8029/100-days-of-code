@@ -390,3 +390,10 @@ Started a fullstack React course from Udemy. Didn't get to the coding part, as g
 Continued on with the React course. It's slow going right now, but I'm sure it will pick up soon. 
 
 ---
+
+## D56/100:
+*Oct 1, 2019*
+
+Continued working through the Udemy React course. Didn't find as much time as I would have liked, but some progress is better than none. 
+
+---
