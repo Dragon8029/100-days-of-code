@@ -397,3 +397,17 @@ Continued on with the React course. It's slow going right now, but I'm sure it w
 Continued working through the Udemy React course. Didn't find as much time as I would have liked, but some progress is better than none. 
 
 ---
+
+## D57/100: 
+*Oct 2, 2019*
+
+Continued following along with the Udemy React course. 
+
+---
+
+## D58/100:
+*Oct 3, 2019*
+
+Carried on working through the Udemy React course. I'm finding it difficult to concentrate on it currently. And the instructor likes to jump around, and is not clear on what he is doing all the time. 
+
+---
