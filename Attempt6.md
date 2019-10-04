@@ -411,3 +411,10 @@ Continued following along with the Udemy React course.
 Carried on working through the Udemy React course. I'm finding it difficult to concentrate on it currently. And the instructor likes to jump around, and is not clear on what he is doing all the time. 
 
 ---
+
+## D59/100: 
+*Oct 4, 2019*
+
+Continued working through the React course. I've also been learning how to do pull requests in git and github. 
+
+---
