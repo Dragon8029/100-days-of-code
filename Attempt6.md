@@ -418,3 +418,15 @@ Carried on working through the Udemy React course. I'm finding it difficult to c
 Continued working through the React course. I've also been learning how to do pull requests in git and github. 
 
 ---
+
+## D60/100:
+*Oct 5, 2019*
+
+Carried on working through the React course. 
+
+---
+
+## D61/100:
+*Oct 6, 2019*
+
+Still working through the React course. 
