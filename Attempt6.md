@@ -430,3 +430,12 @@ Carried on working through the React course.
 *Oct 6, 2019*
 
 Still working through the React course. 
+
+---
+
+## D62/100:
+*Oct 7, 2019*
+
+I think today is the last day I will attempt this React course. It's been really hard to follow, and I think I need to up my Javascript skills before I attempt anything to do with react. 
+
+---
