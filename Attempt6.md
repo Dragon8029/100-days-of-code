@@ -439,3 +439,12 @@ Still working through the React course.
 I think today is the last day I will attempt this React course. It's been really hard to follow, and I think I need to up my Javascript skills before I attempt anything to do with react. 
 
 ---
+
+## D63/100:
+*Oct 8, 20198
+
+Decided to stop working on the React course. It was confusing me, and the instructor wasn't clear enough. I decided to go back to working on my sign up app project that I started a long time ago. It will take a bit of time to get back into the swing of things. But I still want to complete it. 
+
+---
+
+
