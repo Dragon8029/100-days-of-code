@@ -441,9 +441,23 @@ I think today is the last day I will attempt this React course. It's been really
 ---
 
 ## D63/100:
-*Oct 8, 20198
+*Oct 8, 2019*
 
 Decided to stop working on the React course. It was confusing me, and the instructor wasn't clear enough. I decided to go back to working on my sign up app project that I started a long time ago. It will take a bit of time to get back into the swing of things. But I still want to complete it. 
+
+---
+
+## D64/100:
+*Oct 9, 2019*
+
+Didn't write any actual code today, but did refresh my memory on how I want the sign up app project to look like and work. 
+
+---
+
+## D65/100:
+*Oct 10, 2019*
+
+Cleaned up some code and got familiar with how my code is layed out. Still have a long ways to go before it will be a working app.
 
 ---
 
