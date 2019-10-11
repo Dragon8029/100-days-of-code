@@ -461,4 +461,9 @@ Cleaned up some code and got familiar with how my code is layed out. Still have 
 
 ---
 
+## D66/100:
+*Oct 11, 2019*
+
+Worked on adding files and content to the json movie collection. 
+
 
