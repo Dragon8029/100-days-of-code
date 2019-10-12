@@ -468,5 +468,12 @@ Worked on adding files and content to the json movie collection.
 
 ---
 
+## D67/100:
+*Oct 12, 2019*
+
+Started trying to get the visitor sign in page to show on my sign in app. Also still trying to come up with a better name for it than Digital Operations Management. 
+
+---
+
 
 
