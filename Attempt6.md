@@ -475,5 +475,12 @@ Started trying to get the visitor sign in page to show on my sign in app. Also s
 
 ---
 
+## D68/100:
+*Oct 13, 2019*
+
+Continued working on my D.O.M. app, got it deployed on heroku, and connected to my github. I need to get the sign out button working properly, and I think I would like to have the name disappear from the list. And maybe redirect to a thank you page. 
+
+---
+
 
 
