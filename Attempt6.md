@@ -482,5 +482,12 @@ Continued working on my D.O.M. app, got it deployed on heroku, and connected to 
 
 ---
 
+## D69/100:
+*Oct 14, 2019*
+
+Continued working on my app, ran into some problems getting a feature to work. Ended up doing some reading on express, still haven't figured out what I'm doing, but I'm getting closer. 
+
+---
+
 
 
