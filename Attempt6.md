@@ -489,5 +489,13 @@ Continued working on my app, ran into some problems getting a feature to work. E
 
 ---
 
+## D70/100:
+*Oct 15, 2019*
+
+Still reading and researching how to get my feature to work. It's going to take longer than I expected I fear. Oh well, that's life. 
+
+---
+
+
 
 
