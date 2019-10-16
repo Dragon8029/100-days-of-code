@@ -496,6 +496,13 @@ Still reading and researching how to get my feature to work. It's going to take 
 
 ---
 
+## D71/100:
+*Oct 16, 2019*
+
+Not feeling overly productive lately, but I am still researching node.js and express to try and figure out how to get the feature I want to work in my project. 
+
+---
+
 
 
 
