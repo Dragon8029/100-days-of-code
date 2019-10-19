@@ -503,6 +503,20 @@ Not feeling overly productive lately, but I am still researching node.js and exp
 
 ---
 
+## D72/100:
+*Oct 17, 2019*
+
+Still trying to research a solution to my timestamp issue. I haven't been making a lot of headway and am currently feeling a little frustrated with it. I think I will take a days break and then come back to it. 
+
+---
+
+## D73/100:
+*Oct 19, 2019*
+
+Worked on several possible solutions for being able to hide a button. Didn't get them to work, but will keep trying as I have time. 
+
+---
+
 
 
 
