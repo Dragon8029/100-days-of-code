@@ -517,6 +517,11 @@ Worked on several possible solutions for being able to hide a button. Didn't get
 
 ---
 
+## D74/100:
+*Oct 20, 2019*
 
+Worked on getting a button to hide after clicking on it. Didn't quite get it figured out, but getting closer. 
+
+---
 
 
