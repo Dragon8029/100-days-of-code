@@ -524,4 +524,11 @@ Worked on getting a button to hide after clicking on it. Didn't quite get it fig
 
 ---
 
+## D75/100:
+*Oct 21, 2019*
+
+Still trying to figure out how to get the button to hide and a timestamp to show up. So far nothing is working as it should. 
+
+---
+
 
