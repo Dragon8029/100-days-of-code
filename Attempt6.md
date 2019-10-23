@@ -531,4 +531,18 @@ Still trying to figure out how to get the button to hide and a timestamp to show
 
 ---
 
+## D76/100:
+*Oct 22, 2019*
+
+Still researching and trying things to get my timestamp to show up and to hide the button. It's not working so far. 
+
+---
+
+## D77/100:
+*Oct 23, 2019*
+
+I had a thought last night, and it's that my ejs template has the timeOut with Date.now(), I don't want that, I want it to show the date/time when a visitor clicks the button saying that they have left. I will keep working at this, but I clearly need to learn more about ejs. 
+
+---
+
 
