@@ -545,4 +545,20 @@ I had a thought last night, and it's that my ejs template has the timeOut with D
 
 ---
 
+## D78/100:
+*Oct 24, 2019*
+
+Worked on a youtube tutorial about node. Hoping to gain some more info that I may be missing. 
+
+---
+
+## D79/100:
+*Oct 25, 2019*
+
+Finished working through the youtube tutorial. I will still need to find another tutorial to hopefully find what I am looking for. 
+
+---
+
+
+
 
